@@ -74,3 +74,7 @@
 [18:38:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=93, z=47} jh{x=72, y=92, z=48}
 [18:40:56] [Server thread/WARN]: Nicxlv moved too quickly! 0.9414268898480032,0.0,10.086756080861917
 [18:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
+[18:45:50] [Server thread/INFO]: Eduxrdo was blown up by Creeper
+[18:52:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=170, y=84, z=-47} jh{x=177, y=89, z=-46}
+[18:52:30] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[18:52:30] [Server thread/INFO]: Eduxrdo left the game
