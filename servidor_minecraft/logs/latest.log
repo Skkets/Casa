@@ -193,3 +193,13 @@
 [20:42:08] [Server thread/INFO]: diex_x[/127.12.15.75:49507] logged in with entity id 68723 at (-257.69999998807907, 67.0, -319.30000001192093)
 [20:42:08] [Server thread/INFO]: diex_x joined the game
 [20:43:07] [Server thread/INFO]: diex_x has made the advancement [Spooky Scary Skeleton]
+[20:48:42] [Server thread/INFO]: Nicxlv has made the advancement [Best Friends Forever]
+[20:57:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-1510, y=78, z=301} jh{x=-1510, y=78, z=300}
+[21:01:20] [Server thread/INFO]: Tazoneta lost connection: Disconnected
+[21:01:20] [Server thread/INFO]: Tazoneta left the game
+[21:01:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2116, y=87, z=1143} jh{x=-2114, y=89, z=1142}
+[21:05:41] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
+[21:05:46] [Server thread/INFO]: Scarleett lost connection: Disconnected
+[21:05:46] [Server thread/INFO]: Scarleett left the game
+[21:06:34] [Server thread/INFO]: diex_x lost connection: Disconnected
+[21:06:34] [Server thread/INFO]: diex_x left the game
