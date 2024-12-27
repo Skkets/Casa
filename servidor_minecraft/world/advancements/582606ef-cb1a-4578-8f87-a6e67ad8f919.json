@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 03:04:00 +0000"
@@ -302,6 +308,12 @@
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2024-12-27 03:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -470,6 +482,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -719,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 03:22:41 +0000"
@@ -773,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2024-12-27 05:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-27 03:38:11 +0000"
@@ -794,6 +824,12 @@
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-27 05:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -866,6 +902,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-27 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -1172,7 +1214,8 @@
       "minecraft:spider": "2024-12-27 03:20:15 +0000",
       "minecraft:zombie": "2024-12-27 03:06:59 +0000",
       "minecraft:creeper": "2024-12-27 03:24:52 +0000",
-      "minecraft:slime": "2024-12-27 03:14:41 +0000"
+      "minecraft:slime": "2024-12-27 03:14:41 +0000",
+      "minecraft:evoker": "2024-12-27 05:43:00 +0000"
     },
     "done": false
   },
@@ -1200,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:55:57 +0000"
@@ -1215,6 +1264,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-27 03:08:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -1431,16 +1486,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2024-12-27 03:29:09 +0000",
-      "minecraft:old_growth_birch_forest": "2024-12-27 05:18:42 +0000",
       "minecraft:snowy_slopes": "2024-12-27 05:13:45 +0000",
       "minecraft:dark_forest": "2024-12-27 05:19:30 +0000",
       "minecraft:forest": "2024-12-27 02:51:58 +0000",
-      "minecraft:cherry_grove": "2024-12-27 02:52:00 +0000",
       "minecraft:river": "2024-12-27 03:00:14 +0000",
+      "minecraft:dripstone_caves": "2024-12-27 03:07:36 +0000",
+      "minecraft:frozen_peaks": "2024-12-27 05:29:35 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-27 05:18:42 +0000",
+      "minecraft:cherry_grove": "2024-12-27 02:52:00 +0000",
       "minecraft:grove": "2024-12-27 05:21:56 +0000",
       "minecraft:meadow": "2024-12-27 03:14:00 +0000",
       "minecraft:birch_forest": "2024-12-27 05:18:11 +0000",
-      "minecraft:dripstone_caves": "2024-12-27 03:07:36 +0000",
       "minecraft:plains": "2024-12-27 02:52:46 +0000"
     },
     "done": false
@@ -1606,7 +1662,8 @@
       "cooked_porkchop": "2024-12-27 03:00:42 +0000",
       "golden_apple": "2024-12-27 03:25:35 +0000",
       "rotten_flesh": "2024-12-27 02:53:21 +0000",
-      "cooked_mutton": "2024-12-27 03:32:57 +0000"
+      "cooked_mutton": "2024-12-27 03:32:57 +0000",
+      "cooked_beef": "2024-12-27 05:35:20 +0000"
     },
     "done": false
   },
@@ -1673,6 +1730,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2024-12-27 03:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 05:33:00 +0000"
     },
     "done": true
   },
@@ -1901,6 +1964,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-27 02:55:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-27 05:38:55 +0000"
     },
     "done": true
   },
