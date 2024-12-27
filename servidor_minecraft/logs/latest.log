@@ -215,3 +215,21 @@
 [21:12:27] [Server thread/WARN]: Nicxlv moved too quickly! 11.892896965863656,0.0,14.987737081902196
 [21:12:28] [Server thread/WARN]: Nicxlv moved too quickly! 8.828612742708174,-0.03253762274873395,11.126046661755026
 [21:12:55] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to -2609.500000, 68.000000, 1681.500000]
+[21:18:58] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[21:19:05] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[21:19:05] [Server thread/INFO]: Nicxlv left the game
+[21:19:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[21:19:18] [Server thread/INFO]: stpop<--[HERE]
+[21:19:22] [Server thread/INFO]: Stopping the server
+[21:19:22] [Server thread/INFO]: Stopping server
+[21:19:22] [Server thread/INFO]: Saving players
+[21:19:22] [Server thread/INFO]: Eduxrdo lost connection: Server closed
+[21:19:22] [Server thread/INFO]: Eduxrdo left the game
+[21:19:22] [Server thread/INFO]: Saving worlds
+[21:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:19:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
