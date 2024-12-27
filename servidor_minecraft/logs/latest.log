@@ -78,3 +78,22 @@
 [01:01:46] [User Authenticator #9/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
 [01:01:47] [Server thread/INFO]: Nicxlv[/127.194.46.31:47663] logged in with entity id 7171 at (-99.5, 125.0, 79.5)
 [01:01:47] [Server thread/INFO]: Nicxlv joined the game
+[01:06:32] [Server thread/INFO]: [Nicxlv: Set _N4nook's game mode to Survival Mode]
+[01:06:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-105, y=126, z=73}
+[01:06:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-105, y=125, z=73}
+[01:06:50] [Server thread/INFO]: _N4nook lost connection: Disconnected
+[01:06:50] [Server thread/INFO]: _N4nook left the game
+[01:06:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:06:53] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[01:06:53] [Server thread/INFO]: Nicxlv left the game
+[01:07:01] [Server thread/INFO]: Stopping the server
+[01:07:01] [Server thread/INFO]: Stopping server
+[01:07:01] [Server thread/INFO]: Saving players
+[01:07:01] [Server thread/INFO]: Saving worlds
+[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
