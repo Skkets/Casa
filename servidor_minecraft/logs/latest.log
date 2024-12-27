@@ -50,3 +50,31 @@
 [00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
 [00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
 [00:49:15] [Server thread/INFO]: [Nicxlv: Set _N4nook's game mode to Creative Mode]
+[00:55:51] [Server thread/INFO]: [Nicxlv: Set spawn point to -100, 125, 79 [0.0] in minecraft:overworld for Nicxlv]
+[00:57:05] [Server thread/WARN]: Nicxlv moved too quickly! -1.3592070747481557,9.810364356624234,13.033858945601366
+[00:57:12] [Server thread/WARN]: Nicxlv moved too quickly! -7.048994887620381,11.785009387214956,-10.004439579445148
+[00:59:20] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to _N4nook]
+[00:59:40] [Server thread/INFO]: [Nicxlv: Set the world spawn point to -100, 125, 78 [0.0]]
+[00:59:48] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[00:59:48] [Server thread/INFO]: Nicxlv left the game
+[00:59:55] [User Authenticator #6/INFO]: UUID of player luislocaso is f78ee8c7-4489-47f4-89f9-00ffb92bc349
+[00:59:56] [Server thread/INFO]: luislocaso[/127.194.46.31:60439] logged in with entity id 6941 at (-107.5, 121.0, 83.5)
+[00:59:56] [Server thread/INFO]: luislocaso joined the game
+[01:00:28] [Server thread/INFO]: <luislocaso> -100 125 79
+[01:00:29] [Server thread/INFO]: luislocaso lost connection: Disconnected
+[01:00:29] [Server thread/INFO]: luislocaso left the game
+[01:00:35] [User Authenticator #7/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[01:00:35] [Server thread/INFO]: Nicxlv[/127.194.46.31:57075] logged in with entity id 7025 at (-97.78710957685774, 125.0625, 81.04459573003682)
+[01:00:35] [Server thread/INFO]: Nicxlv joined the game
+[01:01:14] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to -99.500000, 125.000000, 79.500000]
+[01:01:25] [Server thread/INFO]: [Nicxlv: Set the world spawn point to -100, 125, 79 [0.0]]
+[01:01:27] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[01:01:27] [Server thread/INFO]: Nicxlv left the game
+[01:01:33] [User Authenticator #8/INFO]: UUID of player luislocaso is f78ee8c7-4489-47f4-89f9-00ffb92bc349
+[01:01:33] [Server thread/INFO]: luislocaso[/127.194.46.31:44177] logged in with entity id 7148 at (-100.26885984610577, 125.0625, 79.15286115940765)
+[01:01:33] [Server thread/INFO]: luislocaso joined the game
+[01:01:40] [Server thread/INFO]: luislocaso lost connection: Disconnected
+[01:01:40] [Server thread/INFO]: luislocaso left the game
+[01:01:46] [User Authenticator #9/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[01:01:47] [Server thread/INFO]: Nicxlv[/127.194.46.31:47663] logged in with entity id 7171 at (-99.5, 125.0, 79.5)
+[01:01:47] [Server thread/INFO]: Nicxlv joined the game
