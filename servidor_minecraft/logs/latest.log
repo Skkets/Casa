@@ -34,3 +34,6 @@
 [17:11:12] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [17:11:15] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [17:21:50] [Server thread/INFO]: Villager cpj['Villager'/80, l='ServerLevel[world]', x=184.46, y=86.00, z=124.50] died, message: 'Villager was slain by Zombie'
+[17:23:35] [Server thread/INFO]: [Nicxlv: The difficulty has been set to Peaceful]
+[17:23:38] [Server thread/WARN]: Nicxlv moved too quickly! 8.307789769448618,11.55766820067582,-0.9126635282098619
+[17:32:40] [Server thread/WARN]: Nicxlv moved too quickly! -7.498944891931899,1.2000000476837158,-12.04944130615813
