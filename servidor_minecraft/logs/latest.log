@@ -1,0 +1,35 @@
+[00:34:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:34:08] [ServerMain/INFO]: No existing world data, creating new world
+[00:34:09] [ServerMain/INFO]: Loaded 1337 recipes
+[00:34:09] [ServerMain/INFO]: Loaded 1448 advancements
+[00:34:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:34:09] [Server thread/INFO]: Loading properties
+[00:34:09] [Server thread/INFO]: Default game type: SURVIVAL
+[00:34:09] [Server thread/INFO]: Generating keypair
+[00:34:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:34:09] [Server thread/INFO]: Using epoll channel type
+[00:34:09] [Server thread/INFO]: Preparing level "world"
+[00:34:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[00:34:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[00:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[00:34:18] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:34:18] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[00:34:19] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[00:34:19] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[00:34:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[00:34:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[00:34:21] [Server thread/INFO]: Time elapsed: 5003 ms
+[00:34:21] [Server thread/INFO]: Done (11.505s)! For help, type "help"
+[00:34:27] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[00:34:28] [Server thread/INFO]: Nicxlv[/127.194.46.31:45003] logged in with entity id 32 at (-25.5, 77.0, 10.5)
+[00:34:28] [Server thread/INFO]: Nicxlv joined the game
+[00:34:36] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[00:34:46] [Server thread/WARN]: Nicxlv moved too quickly! 0.8050594370833402,11.580096219788715,-8.114677481074482
+[00:35:32] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[00:35:32] [Server thread/INFO]: Nicxlv left the game
+[00:36:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:41:01] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[00:41:02] [Server thread/INFO]: Nicxlv[/127.194.46.31:42547] logged in with entity id 1092 at (-51.636938709118844, 92.0, 15.63998641880083)
+[00:41:02] [Server thread/INFO]: Nicxlv joined the game
