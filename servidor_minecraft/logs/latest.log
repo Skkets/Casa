@@ -981,3 +981,39 @@
 [05:56:45] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [05:56:51] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [05:57:08] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:58:11] [Server thread/INFO]: Tiukk was slain by Vindicator
+[05:58:21] [Server thread/INFO]: Tiukk was slain by Vindicator
+[05:58:27] [Server thread/INFO]: Villager cpj['Villager'/219917, l='ServerLevel[world]', x=183.72, y=87.00, z=133.28] died, message: 'Villager was slain by Vindicator'
+[05:58:30] [Server thread/INFO]: Tiukk was slain by Vindicator
+[05:58:41] [Server thread/INFO]: Tiukk was slain by Vex
+[05:59:38] [Server thread/INFO]: Tiukk was slain by Vindicator
+[05:59:55] [Server thread/INFO]: Nicxlv was slain by Vindicator
+[06:00:19] [Server thread/INFO]: _N4nook has completed the challenge [Hero of the Village]
+[06:00:19] [Server thread/INFO]: Nicxlv has completed the challenge [Hero of the Village]
+[06:00:19] [Server thread/INFO]: Eduxrdo has completed the challenge [Hero of the Village]
+[06:00:24] [Server thread/INFO]: Nicxlv was slain by Zombie
+[06:01:33] [Server thread/INFO]: Tiukk was smashed by Nicxlv
+[06:05:39] [Server thread/INFO]: Villager cpj['Librarian'/219921, l='ServerLevel[world]', x=186.29, y=86.00, z=124.15] died, message: 'Librarian was smashed by Nicxlv'
+[06:06:09] [Server thread/INFO]: _N4nook has made the advancement [Best Friends Forever]
+[06:06:10] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:06:14] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:06:24] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.29480175563224975
+[06:06:24] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.6136535596569388
+[06:06:24] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.9325053635321296
+[06:08:19] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[06:08:19] [Server thread/INFO]: Nicxlv left the game
+[06:10:57] [Server thread/INFO]: _N4nook lost connection: Disconnected
+[06:10:57] [Server thread/INFO]: _N4nook left the game
+[06:11:44] [Server thread/INFO]: Stopping the server
+[06:11:44] [Server thread/INFO]: Stopping server
+[06:11:44] [Server thread/INFO]: Saving players
+[06:11:44] [Server thread/INFO]: Eduxrdo lost connection: Server closed
+[06:11:44] [Server thread/INFO]: Eduxrdo left the game
+[06:11:44] [Server thread/INFO]: Saving worlds
+[06:11:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:11:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06:11:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:11:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
