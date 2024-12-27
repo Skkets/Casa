@@ -7,9 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-27 03:36:34 +0000",
       "minecraft:forest": "2024-12-27 00:44:14 +0000",
       "minecraft:sparse_jungle": "2024-12-27 03:10:55 +0000",
       "minecraft:cherry_grove": "2024-12-27 01:51:34 +0000",
+      "minecraft:sunflower_plains": "2024-12-27 03:37:10 +0000",
       "minecraft:river": "2024-12-27 01:59:53 +0000",
       "minecraft:meadow": "2024-12-27 02:02:44 +0000",
       "minecraft:dripstone_caves": "2024-12-27 01:54:57 +0000",
@@ -1303,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-27 03:30:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 02:37:27 +0000"
@@ -1526,6 +1534,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-27 03:30:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2024-12-27 03:25:07 +0000"
@@ -1577,6 +1591,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-27 02:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-27 03:30:44 +0000"
     },
     "done": true
   },
