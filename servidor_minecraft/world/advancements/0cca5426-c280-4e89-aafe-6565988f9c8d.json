@@ -287,9 +287,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 02:11:25 +0000",
+      "minecraft:magma_cube": "2024-12-27 03:56:23 +0000",
       "minecraft:spider": "2024-12-27 02:34:52 +0000",
       "minecraft:zombie": "2024-12-27 02:12:39 +0000",
-      "minecraft:creeper": "2024-12-27 01:54:56 +0000"
+      "minecraft:creeper": "2024-12-27 01:54:56 +0000",
+      "minecraft:hoglin": "2024-12-27 04:25:55 +0000"
     },
     "done": false
   },
@@ -514,6 +516,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-27 02:41:49 +0000",
       "bread": "2024-12-27 02:01:04 +0000",
+      "cooked_mutton": "2024-12-27 04:48:03 +0000",
       "cooked_beef": "2024-12-27 02:11:35 +0000",
       "baked_potato": "2024-12-27 02:47:31 +0000"
     },
@@ -1167,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-27 03:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-27 03:20:09 +0000"
@@ -1197,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-27 03:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 03:20:09 +0000"
@@ -1212,6 +1227,12 @@
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2024-12-27 03:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
     },
     "done": true
   },
@@ -1281,6 +1302,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_slab": {
     "criteria": {
       "has_tuff": "2024-12-27 02:45:46 +0000"
@@ -1325,6 +1358,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-27 04:04:08 +0000",
       "minecraft:nether_wastes": "2024-12-27 03:25:43 +0000",
       "minecraft:basalt_deltas": "2024-12-27 03:24:50 +0000"
     },
@@ -1384,9 +1418,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2024-12-27 03:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-27 03:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 03:48:51 +0000"
     },
     "done": true
   },
@@ -1480,6 +1526,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 04:07:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-27 02:34:52 +0000"
@@ -1492,6 +1550,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-27 04:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-27 03:52:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 03:20:09 +0000"
@@ -1501,6 +1571,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
     },
     "done": true
   },
@@ -1564,6 +1646,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-27 02:45:46 +0000"
@@ -1579,6 +1667,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-27 02:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
     },
     "done": true
   },
@@ -1720,9 +1814,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 04:06:18 +0000"
     },
     "done": true
   },
@@ -1747,6 +1853,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-27 02:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-27 04:07:48 +0000"
     },
     "done": true
   },
@@ -1777,6 +1889,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-27 02:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-27 04:17:27 +0000"
     },
     "done": true
   },
