@@ -80,6 +80,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-27 19:41:33 +0000",
       "mutton": "2024-12-27 19:27:39 +0000",
       "bread": "2024-12-27 02:53:21 +0000",
       "golden_apple": "2024-12-27 05:57:02 +0000",
@@ -2395,6 +2396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-27 19:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2024-12-27 17:10:35 +0000"
@@ -2485,6 +2492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-27 19:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-27 17:13:31 +0000"
@@ -2536,6 +2549,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-27 18:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-27 19:34:51 +0000"
     },
     "done": true
   },
