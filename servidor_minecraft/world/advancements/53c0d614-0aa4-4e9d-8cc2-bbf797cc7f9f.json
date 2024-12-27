@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-27 02:33:25 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 03:01:28 +0000"
     },
     "done": true
   },
@@ -461,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-27 02:51:15 +0000"
@@ -476,6 +494,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2024-12-27 02:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
     },
     "done": true
   },
@@ -530,6 +554,12 @@
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-27 02:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
     },
     "done": true
   },
@@ -665,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-27 02:33:15 +0000"
@@ -697,6 +733,12 @@
       "minecraft:creeper": "2024-12-27 02:23:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 03:01:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/cherry_trapdoor": {
     "criteria": {
@@ -806,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:22:04 +0000"
@@ -838,17 +886,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2024-12-27 02:48:03 +0000",
       "minecraft:dark_forest": "2024-12-27 02:56:50 +0000",
       "minecraft:forest": "2024-12-27 02:13:44 +0000",
       "minecraft:sparse_jungle": "2024-12-27 02:48:07 +0000",
+      "minecraft:river": "2024-12-27 02:32:40 +0000",
+      "minecraft:stony_shore": "2024-12-27 03:02:44 +0000",
+      "minecraft:dripstone_caves": "2024-12-27 02:18:03 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-27 02:48:03 +0000",
       "minecraft:jungle": "2024-12-27 02:52:33 +0000",
       "minecraft:cherry_grove": "2024-12-27 02:13:04 +0000",
-      "minecraft:river": "2024-12-27 02:32:40 +0000",
       "minecraft:grove": "2024-12-27 02:56:16 +0000",
       "minecraft:meadow": "2024-12-27 02:33:17 +0000",
       "minecraft:birch_forest": "2024-12-27 02:58:35 +0000",
-      "minecraft:dripstone_caves": "2024-12-27 02:18:03 +0000",
+      "minecraft:bamboo_jungle": "2024-12-27 03:05:27 +0000",
       "minecraft:plains": "2024-12-27 02:19:29 +0000"
     },
     "done": false
@@ -907,6 +957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-27 02:52:47 +0000"
@@ -938,6 +994,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-27 02:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
     },
     "done": true
   },
@@ -1094,6 +1156,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-27 02:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 03:01:30 +0000"
     },
     "done": true
   },
