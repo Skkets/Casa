@@ -33,3 +33,20 @@
 [00:41:01] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
 [00:41:02] [Server thread/INFO]: Nicxlv[/127.194.46.31:42547] logged in with entity id 1092 at (-51.636938709118844, 92.0, 15.63998641880083)
 [00:41:02] [Server thread/INFO]: Nicxlv joined the game
+[00:44:11] [User Authenticator #3/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[00:44:13] [Server thread/INFO]: Eduxrdo[/127.81.208.104:49607] logged in with entity id 1960 at (-20.5, 84.0, 7.5)
+[00:44:13] [Server thread/INFO]: Eduxrdo joined the game
+[00:44:37] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[00:44:37] [Server thread/INFO]: Nicxlv left the game
+[00:44:41] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[00:44:41] [Server thread/INFO]: Eduxrdo left the game
+[00:45:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:48:01] [User Authenticator #4/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[00:48:02] [Server thread/INFO]: Nicxlv[/127.194.46.31:50973] logged in with entity id 2141 at (-35.92129690620946, 85.0, 5.584079929812208)
+[00:48:02] [Server thread/INFO]: Nicxlv joined the game
+[00:48:30] [User Authenticator #5/INFO]: UUID of player _N4nook is b76b115f-1d94-47ff-ab5c-c5408e93f2a5
+[00:48:32] [Server thread/INFO]: _N4nook[/127.137.12.114:46307] logged in with entity id 2486 at (-20.5, 83.0, 20.5)
+[00:48:32] [Server thread/INFO]: _N4nook joined the game
+[00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
+[00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
+[00:49:15] [Server thread/INFO]: [Nicxlv: Set _N4nook's game mode to Creative Mode]
