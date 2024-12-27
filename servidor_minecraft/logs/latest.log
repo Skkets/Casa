@@ -1,99 +1,60 @@
-[00:34:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:34:08] [ServerMain/INFO]: No existing world data, creating new world
-[00:34:09] [ServerMain/INFO]: Loaded 1337 recipes
-[00:34:09] [ServerMain/INFO]: Loaded 1448 advancements
-[00:34:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:34:09] [Server thread/INFO]: Loading properties
-[00:34:09] [Server thread/INFO]: Default game type: SURVIVAL
-[00:34:09] [Server thread/INFO]: Generating keypair
-[00:34:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:34:09] [Server thread/INFO]: Using epoll channel type
-[00:34:09] [Server thread/INFO]: Preparing level "world"
-[00:34:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:34:16] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[00:34:16] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[00:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[00:34:17] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[00:34:18] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[00:34:18] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[00:34:19] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[00:34:19] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[00:34:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[00:34:20] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[00:34:21] [Server thread/INFO]: Time elapsed: 5003 ms
-[00:34:21] [Server thread/INFO]: Done (11.505s)! For help, type "help"
-[00:34:27] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[00:34:28] [Server thread/INFO]: Nicxlv[/127.194.46.31:45003] logged in with entity id 32 at (-25.5, 77.0, 10.5)
-[00:34:28] [Server thread/INFO]: Nicxlv joined the game
-[00:34:36] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[00:34:46] [Server thread/WARN]: Nicxlv moved too quickly! 0.8050594370833402,11.580096219788715,-8.114677481074482
-[00:35:32] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[00:35:32] [Server thread/INFO]: Nicxlv left the game
-[00:36:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:41:01] [User Authenticator #2/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[00:41:02] [Server thread/INFO]: Nicxlv[/127.194.46.31:42547] logged in with entity id 1092 at (-51.636938709118844, 92.0, 15.63998641880083)
-[00:41:02] [Server thread/INFO]: Nicxlv joined the game
-[00:44:11] [User Authenticator #3/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
-[00:44:13] [Server thread/INFO]: Eduxrdo[/127.81.208.104:49607] logged in with entity id 1960 at (-20.5, 84.0, 7.5)
-[00:44:13] [Server thread/INFO]: Eduxrdo joined the game
-[00:44:37] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[00:44:37] [Server thread/INFO]: Nicxlv left the game
-[00:44:41] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
-[00:44:41] [Server thread/INFO]: Eduxrdo left the game
-[00:45:41] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:48:01] [User Authenticator #4/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[00:48:02] [Server thread/INFO]: Nicxlv[/127.194.46.31:50973] logged in with entity id 2141 at (-35.92129690620946, 85.0, 5.584079929812208)
-[00:48:02] [Server thread/INFO]: Nicxlv joined the game
-[00:48:30] [User Authenticator #5/INFO]: UUID of player _N4nook is b76b115f-1d94-47ff-ab5c-c5408e93f2a5
-[00:48:32] [Server thread/INFO]: _N4nook[/127.137.12.114:46307] logged in with entity id 2486 at (-20.5, 83.0, 20.5)
-[00:48:32] [Server thread/INFO]: _N4nook joined the game
-[00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
-[00:48:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-23, y=81, z=23}
-[00:49:15] [Server thread/INFO]: [Nicxlv: Set _N4nook's game mode to Creative Mode]
-[00:55:51] [Server thread/INFO]: [Nicxlv: Set spawn point to -100, 125, 79 [0.0] in minecraft:overworld for Nicxlv]
-[00:57:05] [Server thread/WARN]: Nicxlv moved too quickly! -1.3592070747481557,9.810364356624234,13.033858945601366
-[00:57:12] [Server thread/WARN]: Nicxlv moved too quickly! -7.048994887620381,11.785009387214956,-10.004439579445148
-[00:59:20] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to _N4nook]
-[00:59:40] [Server thread/INFO]: [Nicxlv: Set the world spawn point to -100, 125, 78 [0.0]]
-[00:59:48] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[00:59:48] [Server thread/INFO]: Nicxlv left the game
-[00:59:55] [User Authenticator #6/INFO]: UUID of player luislocaso is f78ee8c7-4489-47f4-89f9-00ffb92bc349
-[00:59:56] [Server thread/INFO]: luislocaso[/127.194.46.31:60439] logged in with entity id 6941 at (-107.5, 121.0, 83.5)
-[00:59:56] [Server thread/INFO]: luislocaso joined the game
-[01:00:28] [Server thread/INFO]: <luislocaso> -100 125 79
-[01:00:29] [Server thread/INFO]: luislocaso lost connection: Disconnected
-[01:00:29] [Server thread/INFO]: luislocaso left the game
-[01:00:35] [User Authenticator #7/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[01:00:35] [Server thread/INFO]: Nicxlv[/127.194.46.31:57075] logged in with entity id 7025 at (-97.78710957685774, 125.0625, 81.04459573003682)
-[01:00:35] [Server thread/INFO]: Nicxlv joined the game
-[01:01:14] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to -99.500000, 125.000000, 79.500000]
-[01:01:25] [Server thread/INFO]: [Nicxlv: Set the world spawn point to -100, 125, 79 [0.0]]
-[01:01:27] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[01:01:27] [Server thread/INFO]: Nicxlv left the game
-[01:01:33] [User Authenticator #8/INFO]: UUID of player luislocaso is f78ee8c7-4489-47f4-89f9-00ffb92bc349
-[01:01:33] [Server thread/INFO]: luislocaso[/127.194.46.31:44177] logged in with entity id 7148 at (-100.26885984610577, 125.0625, 79.15286115940765)
-[01:01:33] [Server thread/INFO]: luislocaso joined the game
-[01:01:40] [Server thread/INFO]: luislocaso lost connection: Disconnected
-[01:01:40] [Server thread/INFO]: luislocaso left the game
-[01:01:46] [User Authenticator #9/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[01:01:47] [Server thread/INFO]: Nicxlv[/127.194.46.31:47663] logged in with entity id 7171 at (-99.5, 125.0, 79.5)
-[01:01:47] [Server thread/INFO]: Nicxlv joined the game
-[01:06:32] [Server thread/INFO]: [Nicxlv: Set _N4nook's game mode to Survival Mode]
-[01:06:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-105, y=126, z=73}
-[01:06:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-105, y=125, z=73}
-[01:06:50] [Server thread/INFO]: _N4nook lost connection: Disconnected
-[01:06:50] [Server thread/INFO]: _N4nook left the game
-[01:06:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[01:06:53] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[01:06:53] [Server thread/INFO]: Nicxlv left the game
-[01:07:01] [Server thread/INFO]: Stopping the server
-[01:07:01] [Server thread/INFO]: Stopping server
-[01:07:01] [Server thread/INFO]: Saving players
-[01:07:01] [Server thread/INFO]: Saving worlds
-[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:07:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:07:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:43:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:43:44] [ServerMain/INFO]: Loaded 1337 recipes
+[01:43:44] [ServerMain/INFO]: Loaded 1448 advancements
+[01:43:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:43:44] [Server thread/INFO]: Loading properties
+[01:43:44] [Server thread/INFO]: Default game type: SURVIVAL
+[01:43:44] [Server thread/INFO]: Generating keypair
+[01:43:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:43:44] [Server thread/INFO]: Using epoll channel type
+[01:43:44] [Server thread/INFO]: Preparing level "world"
+[01:43:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:43:49] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[01:43:49] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[01:43:49] [Worker-Main-2/INFO]: Preparing spawn area: 59%
+[01:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 59%
+[01:43:50] [Worker-Main-1/INFO]: Preparing spawn area: 61%
+[01:43:51] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[01:43:51] [Worker-Main-1/INFO]: Preparing spawn area: 73%
+[01:43:52] [Server thread/INFO]: Time elapsed: 6727 ms
+[01:43:52] [Server thread/INFO]: Done (7.237s)! For help, type "help"
+[01:44:21] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[01:44:22] [Server thread/INFO]: Nicxlv[/127.194.46.31:53927] logged in with entity id 83 at (-99.82842249405806, 125.0625, 79.44835918831099)
+[01:44:22] [Server thread/INFO]: Nicxlv joined the game
+[01:47:16] [Server thread/INFO]: Nicxlv has made the advancement [Monster Hunter]
+[01:47:37] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[01:47:47] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:47:57] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[01:47:57] [Server thread/INFO]: Nicxlv left the game
+[01:48:01] [User Authenticator #2/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[01:48:02] [Server thread/INFO]: Scarleett[/127.116.157.213:34181] logged in with entity id 1198 at (-96.5, 125.0, 78.5)
+[01:48:02] [Server thread/INFO]: Scarleett joined the game
+[01:48:09] [User Authenticator #3/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[01:48:09] [Server thread/INFO]: Nicxlv[/127.194.46.31:54631] logged in with entity id 1496 at (-99.8933584763236, 125.0625, 79.06317857903724)
+[01:48:09] [Server thread/INFO]: Nicxlv joined the game
+[01:50:00] [User Authenticator #4/INFO]: UUID of player _N4nook is b76b115f-1d94-47ff-ab5c-c5408e93f2a5
+[01:50:01] [Server thread/INFO]: _N4nook[/127.137.12.114:42079] logged in with entity id 1666 at (-99.62404335515956, 125.0625, 76.45020512474247)
+[01:50:01] [Server thread/INFO]: _N4nook joined the game
+[01:50:43] [Server thread/INFO]: _N4nook has made the advancement [Monster Hunter]
+[01:51:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-99, y=123, z=90}
+[01:51:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-98, y=123, z=91}
+[01:51:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-98, y=123, z=91}
+[01:51:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-98, y=123, z=91}
+[01:51:24] [User Authenticator #5/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[01:51:25] [Server thread/INFO]: Eduxrdo[/127.81.208.104:41155] logged in with entity id 2058 at (-27.866539280992317, 86.0, 30.131481738464085)
+[01:51:25] [Server thread/INFO]: Eduxrdo joined the game
+[01:51:34] [Server thread/INFO]: [Nicxlv: Teleported Eduxrdo to Nicxlv]
+[01:51:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-26, y=85, z=31} jh{x=-101, y=125, z=78}
+[01:51:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-103, y=124, z=103} jh{x=-104, y=123, z=68}
+[01:52:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=119, z=52} jh{x=-100, y=117, z=67}
+[01:52:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=119, z=52} jh{x=-100, y=117, z=67}
+[01:52:04] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-98, y=119, z=52} jh{x=-101, y=116, z=66}
+[01:52:35] [Server thread/INFO]: Nicxlv was slain by Spider
+[01:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-79, y=126, z=78} jh{x=-86, y=120, z=82}
