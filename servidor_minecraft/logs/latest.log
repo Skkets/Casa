@@ -64,3 +64,13 @@
 [18:30:37] [Server thread/INFO]: Eduxrdo[/127.50.97.13:56209] logged in with entity id 10460 at (187.30979559170643, 81.0, 127.27088358544437)
 [18:30:37] [Server thread/INFO]: Eduxrdo joined the game
 [18:33:05] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[18:34:29] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[18:38:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=18, y=82, z=28} jh{x=70, y=89, z=48}
+[18:38:28] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=18, y=82, z=28} jh{x=70, y=89, z=48}
+[18:38:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=18, y=82, z=28} jh{x=70, y=89, z=48}
+[18:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=93, z=47} jh{x=72, y=92, z=48}
+[18:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=93, z=47} jh{x=72, y=92, z=48}
+[18:38:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=93, z=47} jh{x=72, y=92, z=48}
+[18:38:33] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=93, z=47} jh{x=72, y=92, z=48}
+[18:40:56] [Server thread/WARN]: Nicxlv moved too quickly! 0.9414268898480032,0.0,10.086756080861917
+[18:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3171ms or 63 ticks behind
