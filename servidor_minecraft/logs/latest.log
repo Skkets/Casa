@@ -45,3 +45,16 @@
 [18:12:51] [Server thread/INFO]: Eduxrdo[/127.50.97.13:54603] logged in with entity id 8014 at (173.27893577094858, -30.0, 126.42250220079825)
 [18:12:51] [Server thread/INFO]: Eduxrdo joined the game
 [18:13:04] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[18:13:49] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[18:13:49] [Server thread/INFO]: Eduxrdo left the game
+[18:16:03] [Server thread/INFO]: [Nicxlv: Whitelist is now turned on]
+[18:16:30] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[18:17:41] [User Authenticator #3/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[18:17:41] [Server thread/INFO]: Disconnecting Eduxrdo (/127.50.97.13:50805): You are not white-listed on this server!
+[18:17:41] [Server thread/INFO]: Eduxrdo (/127.50.97.13:50805) lost connection: You are not white-listed on this server!
+[18:17:41] [Server thread/WARN]: handleDisconnection() called twice
+[18:17:54] [Server thread/INFO]: [Nicxlv: Whitelist is now turned off]
+[18:18:03] [User Authenticator #4/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[18:18:04] [Server thread/INFO]: Eduxrdo[/127.50.97.13:57133] logged in with entity id 8407 at (151.30000001192093, -51.0, 126.42508515570452)
+[18:18:04] [Server thread/INFO]: Eduxrdo joined the game
+[18:21:26] [Server thread/INFO]: [Nicxlv: The difficulty has been set to Hard]
