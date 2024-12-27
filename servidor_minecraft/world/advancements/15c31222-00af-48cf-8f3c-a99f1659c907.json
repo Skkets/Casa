@@ -41,11 +41,14 @@
       "minecraft:pillager": "2024-12-27 05:29:20 +0000",
       "minecraft:skeleton": "2024-12-27 01:51:03 +0000",
       "minecraft:breeze": "2024-12-27 02:33:11 +0000",
+      "minecraft:vindicator": "2024-12-27 05:49:45 +0000",
       "minecraft:stray": "2024-12-27 02:20:50 +0000",
+      "minecraft:witch": "2024-12-27 05:50:01 +0000",
       "minecraft:spider": "2024-12-27 02:15:52 +0000",
       "minecraft:zombie": "2024-12-27 01:47:16 +0000",
       "minecraft:creeper": "2024-12-27 02:13:16 +0000",
-      "minecraft:drowned": "2024-12-27 05:39:55 +0000"
+      "minecraft:drowned": "2024-12-27 05:39:55 +0000",
+      "minecraft:evoker": "2024-12-27 05:50:49 +0000"
     },
     "done": false
   },
@@ -76,6 +79,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-27 02:53:21 +0000",
+      "rotten_flesh": "2024-12-27 05:51:07 +0000",
       "cooked_mutton": "2024-12-27 01:58:02 +0000",
       "cooked_beef": "2024-12-27 02:27:33 +0000",
       "melon_slice": "2024-12-27 01:47:50 +0000"
@@ -2072,6 +2076,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-27 05:21:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-27 05:51:32 +0000"
     },
     "done": true
   },

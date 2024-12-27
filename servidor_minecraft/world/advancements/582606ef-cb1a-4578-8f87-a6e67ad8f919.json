@@ -167,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-27 05:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 03:04:00 +0000"
@@ -488,6 +494,12 @@
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-12-27 05:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-27 05:45:32 +0000"
     },
     "done": true
   },
@@ -875,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-27 05:45:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-27 03:02:21 +0000"
@@ -1209,6 +1227,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-27 03:35:45 +0000",
       "minecraft:skeleton": "2024-12-27 03:11:00 +0000",
+      "minecraft:phantom": "2024-12-27 05:52:57 +0000",
       "minecraft:vindicator": "2024-12-27 03:53:10 +0000",
       "minecraft:enderman": "2024-12-27 03:56:49 +0000",
       "minecraft:spider": "2024-12-27 03:20:15 +0000",
@@ -1423,6 +1442,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-27 05:48:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:55:57 +0000"
@@ -1633,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 05:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2024-12-27 03:08:29 +0000"
@@ -1712,6 +1743,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-27 03:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-27 05:54:13 +0000"
     },
     "done": true
   },
