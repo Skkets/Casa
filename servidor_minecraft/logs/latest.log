@@ -78,3 +78,9 @@
 [18:52:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=170, y=84, z=-47} jh{x=177, y=89, z=-46}
 [18:52:30] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
 [18:52:30] [Server thread/INFO]: Eduxrdo left the game
+[18:56:45] [User Authenticator #6/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[18:56:46] [Server thread/INFO]: Eduxrdo[/127.50.97.13:33377] logged in with entity id 18923 at (176.39646432551942, 88.0, -45.812134122422385)
+[18:56:46] [Server thread/INFO]: Eduxrdo joined the game
+[18:59:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=255, y=61, z=-62} jh{x=254, y=60, z=-62}
+[18:59:53] [Server thread/INFO]: Villager cpj['Librarian'/4416, l='ServerLevel[world]', x=182.33, y=86.75, z=123.30] died, message: 'Librarian was slain by Zombie'
+[19:02:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=156, y=66, z=-35} jh{x=157, y=66, z=-35}
