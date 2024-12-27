@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 02:59:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-27 02:29:46 +0000"
@@ -1148,6 +1154,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-27 01:57:42 +0000",
+      "minecraft:enderman": "2024-12-27 02:58:30 +0000",
       "minecraft:witch": "2024-12-27 01:57:53 +0000",
       "minecraft:spider": "2024-12-27 01:50:43 +0000",
       "minecraft:zombie": "2024-12-27 01:55:49 +0000",
@@ -1682,6 +1689,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2024-12-27 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-27 02:59:07 +0000"
     },
     "done": true
   },

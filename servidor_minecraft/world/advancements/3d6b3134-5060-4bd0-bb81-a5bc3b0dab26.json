@@ -863,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-27 02:56:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-27 01:58:16 +0000"
@@ -1145,6 +1151,7 @@
     "criteria": {
       "minecraft:forest": "2024-12-27 01:51:09 +0000",
       "minecraft:cherry_grove": "2024-12-27 01:48:03 +0000",
+      "minecraft:river": "2024-12-27 02:52:23 +0000",
       "minecraft:meadow": "2024-12-27 02:31:27 +0000",
       "minecraft:dripstone_caves": "2024-12-27 02:00:02 +0000",
       "minecraft:plains": "2024-12-27 01:53:54 +0000"
