@@ -229,3 +229,9 @@
 [20:18:04] [Server thread/INFO]: <diex_x> aja
 [20:18:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [20:18:36] [Server thread/INFO]: <diex_x> hay algun aldeano que te de pico?
+[20:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=544, y=110, z=44} jh{x=544, y=104, z=43}
+[20:28:06] [Server thread/INFO]: TsuruCachondito lost connection: Disconnected
+[20:28:06] [Server thread/INFO]: TsuruCachondito left the game
+[20:30:34] [User Authenticator #17/INFO]: UUID of player TsuruCachondito is db70339d-1f1f-454d-9f5c-e3901cac0124
+[20:30:34] [Server thread/INFO]: TsuruCachondito[/127.72.110.131:46789] logged in with entity id 105917 at (41.20783256979436, 6.0, -218.30000001192093)
+[20:30:34] [Server thread/INFO]: TsuruCachondito joined the game
