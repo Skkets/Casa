@@ -422,3 +422,8 @@
 [06:49:36] [Server thread/WARN]: Nicxlv moved too quickly! -14.82229707209433,0.0,5.607828914745362
 [06:57:36] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [07:00:30] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[07:01:36] [Server thread/INFO]: _N4nook lost connection: Disconnected
+[07:01:36] [Server thread/INFO]: _N4nook left the game
+[07:08:18] [Server thread/INFO]: Nicxlv has reached the goal [Zombie Doctor]
+[07:08:47] [Server thread/INFO]: Villager cpj['Villager'/169491, l='ServerLevel[world]', x=486.56, y=97.00, z=68.68] died, message: 'Villager was slain by Nicxlv'
+[07:11:44] [Server thread/INFO]: Villager cpj['Villager'/171010, l='ServerLevel[world]', x=267.30, y=98.00, z=79.70] died, message: 'Villager was slain by Nicxlv'
