@@ -36,3 +36,62 @@
 [18:19:51] [User Authenticator #4/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
 [18:19:52] [Server thread/INFO]: Eduxrdo[/127.50.97.13:37733] logged in with entity id 3930 at (112.19133095428354, 67.6281999805212, -215.76249998807907)
 [18:19:52] [Server thread/INFO]: Eduxrdo joined the game
+[18:30:02] [User Authenticator #5/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[18:30:03] [Server thread/INFO]: sacracoronaj[/127.43.195.213:53535] logged in with entity id 8345 at (113.10261152295172, 65.0, -227.8952928334125)
+[18:30:03] [Server thread/INFO]: sacracoronaj joined the game
+[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-417, y=56, z=-758} jh{x=-417, y=57, z=-758}
+[18:42:55] [Server thread/INFO]: sacracoronaj has reached the goal [Postmortal]
+[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.30680420891252425
+[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.7579057515661702
+[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.2119420266859038
+[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.527502822944541
+[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.7736196756375193
+[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.26384095535740926
+[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.6982738398323818
+[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.096056605713784
+[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.3089022328044848
+[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.4227916841764454
+[18:46:18] [Worker-Main-3/ERROR]: Failed to fetch mob spawner entity at (-3016, 1, -532)
+[18:56:08] [Server thread/INFO]: Nicxlv has made the advancement [Glow and Behold!]
+[18:58:25] [Server thread/INFO]: Nicxlv has made the advancement [What a Deal!]
+[19:00:50] [User Authenticator #6/INFO]: UUID of player TsuruCachondito is db70339d-1f1f-454d-9f5c-e3901cac0124
+[19:00:51] [Server thread/INFO]: TsuruCachondito[/127.72.110.131:54263] logged in with entity id 33905 at (-107.5, 121.0, 82.5)
+[19:00:51] [Server thread/INFO]: TsuruCachondito joined the game
+[19:02:02] [Server thread/INFO]: <TsuruCachondito> send u coords Eduxrdo
+[19:02:17] [Server thread/INFO]: <Eduxrdo> -3011 90 -327
+[19:02:32] [Server thread/INFO]: Villager cpj['Librarian'/24478, l='ServerLevel[world]', x=289.32, y=96.00, z=89.50] died, message: 'Librarian was slain by Nicxlv'
+[19:02:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2991, y=72, z=-322} jh{x=-3011, y=91, z=-324}
+[19:05:32] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[19:07:10] [Server thread/WARN]: Oak Boat (vehicle of TsuruCachondito) moved wrongly! 0.33155377605646663
+[19:07:10] [Server thread/WARN]: Oak Boat (vehicle of TsuruCachondito) moved wrongly! 0.5851459175448781
+[19:10:01] [User Authenticator #7/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[19:10:02] [Server thread/INFO]: XKOUZ[/127.68.124.2:51727] logged in with entity id 41286 at (116.79706882633958, 67.0, -204.2593450248024)
+[19:10:02] [Server thread/INFO]: XKOUZ joined the game
+[19:10:31] [Server thread/INFO]: TsuruCachondito has made the advancement [Monster Hunter]
+[19:10:51] [Server thread/INFO]: TsuruCachondito has made the advancement [A Seedy Place]
+[19:11:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-3010, y=61, z=-322} jh{x=-3008, y=91, z=-327}
+[19:11:52] [Server thread/INFO]: TsuruCachondito has made the advancement [Stone Age]
+[19:12:26] [Server thread/INFO]: Eduxrdo lost connection: Timed out
+[19:12:26] [Server thread/INFO]: Eduxrdo left the game
+[19:12:26] [Server thread/WARN]: handleDisconnection() called twice
+[19:12:37] [Server thread/INFO]: sacracoronaj lost connection: Timed out
+[19:12:37] [Server thread/INFO]: sacracoronaj left the game
+[19:12:48] [Server thread/INFO]: XKOUZ lost connection: Timed out
+[19:12:48] [Server thread/INFO]: XKOUZ left the game
+[19:12:56] [Server thread/INFO]: XKOUZ (/127.68.124.2:36979) lost connection: Disconnected
+[19:13:07] [Server thread/INFO]: sacracoronaj (/127.43.195.213:48887) lost connection: Disconnected
+[19:13:18] [User Authenticator #8/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[19:13:20] [Server thread/INFO]: sacracoronaj[/127.43.195.213:60901] logged in with entity id 43681 at (106.30529120772425, 64.0, -172.1350526024335)
+[19:13:20] [Server thread/INFO]: sacracoronaj joined the game
+[19:13:20] [User Authenticator #9/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[19:13:21] [Server thread/INFO]: XKOUZ[/127.68.124.2:42757] logged in with entity id 43969 at (107.88665833333016, 75.0, -165.26758094640022)
+[19:13:21] [Server thread/INFO]: XKOUZ joined the game
+[19:13:32] [User Authenticator #10/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[19:13:33] [Server thread/INFO]: Eduxrdo[/127.50.97.13:39533] logged in with entity id 44063 at (-3007.7999999999993, 90.65, -325.5)
+[19:13:33] [Server thread/INFO]: Eduxrdo joined the game
+[19:13:39] [User Authenticator #11/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[19:13:41] [Server thread/INFO]: Tiukk[/127.168.226.231:59189] logged in with entity id 44441 at (118.42565796198616, 71.0, -265.5477243668561)
+[19:13:41] [Server thread/INFO]: Tiukk joined the game
+[19:14:16] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[19:14:37] [Server thread/INFO]: TsuruCachondito has made the advancement [Getting an Upgrade]
+[19:15:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=121, y=68, z=-263} jh{x=121, y=66, z=-248}
