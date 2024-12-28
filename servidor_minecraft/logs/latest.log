@@ -210,3 +210,28 @@
 [04:38:25] [Server thread/INFO]: jonx_x drowned
 [04:42:15] [Server thread/INFO]: jonx_x drowned
 [04:48:36] [Server thread/INFO]: jonx_x was blown up by Creeper
+[04:49:38] [Server thread/INFO]: sacracoronaj lost connection: Timed out
+[04:49:38] [Server thread/INFO]: sacracoronaj left the game
+[04:49:38] [Server thread/WARN]: handleDisconnection() called twice
+[04:49:41] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[04:49:41] [Server thread/INFO]: Eduxrdo left the game
+[04:50:03] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[04:50:03] [Server thread/INFO]: Nicxlv left the game
+[04:50:06] [Server thread/INFO]: Scarleett lost connection: Disconnected
+[04:50:06] [Server thread/INFO]: Scarleett left the game
+[04:50:14] [User Authenticator #16/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:50:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@63319d8[id=8879014e-997b-4a11-9b8f-8953c96637df,name=sacracoronaj,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTczNTM2MTQxNDg1NywKICAicHJvZmlsZUlkIiA6ICI4ODc5MDE0ZTk5N2I0YTExOWI4Zjg5NTNjOTY2MzdkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYWNyYWNvcm9uYWoiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjU5ODgyMGMzZmU4YTMyNWNhNDNlY2M4ZDg5Yzg4MDdjM2E5YzEzNWY0YjdjOTRmZWEwMWNhYTIxZmRmZDczZiIKICAgIH0KICB9Cn0=, signature=EsSrF6UEuFygQWFFgw5FlcsYByZ9PelQ4GoT92aevrZQZr8aE2PojlDTMpswvCMNaqKeaUD6FQ7/akyy5NQIpEljrkscEkL91ILt+UPEXglNDFFvitenqs1Syzs9PNbWJE/hGIEtt5h4ocxirfwhuXTj3tAudchpKHAy1L/xCLKqoFAV/IM6acICpMCpSQtaT1Uh95gkIMdymiUaqsorHjEuWr0jCYtSXUWrKKd7NSBDJ19iyXaSrj93W+U+my0HjgKs6+ORQeb4L49+zWZ/vC8FOKdJabYcNuhgLD1PsBO1lljw7FpY/iFKXAPnAf4GgQVvlMydyqzTfoHfBD4wSEek0LGMRWX03OlykgtjLOemJJF7J5TcV8me0paJndtUt1i3XiR5MJZ7ZLq//H1MHGw1/hny1NfB+2caj70ckiQMYTo5R7eg6qnDMFwXHxSfnfV0S9p8hUonGPgne9VLT0jjaDtJ1HOI9SX20TSoDKmyGe54hJpwjFIcbXNK+AMNKw1m5N7TMVDuUYGbJk0DtdxCnC/9LefyKCIoJbRmypM8wcdvkfW9EGK9J4CdPqrUVW6gheeFNzOmm+oECTOsUAOPssY5+mcUIbNSDOBmnotPxcVvjClEKRghPDdoc3xf7CFWGPDO5ze0uSHUMzdCpLkDxlAZ0ULB+ibp9FT44Po=]]}] lost connection: Disconnected
+[04:50:20] [User Authenticator #17/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[04:50:21] [Server thread/INFO]: Nicxlv[/127.194.46.31:47437] logged in with entity id 91398 at (806.3279620676167, -32.0, -177.30000001192093)
+[04:50:21] [Server thread/INFO]: Nicxlv joined the game
+[04:50:21] [User Authenticator #18/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[04:50:21] [Server thread/INFO]: Scarleett[/127.116.157.213:41255] logged in with entity id 91648 at (807.9133039184812, -32.0, -184.73531974236204)
+[04:50:21] [Server thread/INFO]: Scarleett joined the game
+[04:50:47] [User Authenticator #19/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[04:50:47] [User Authenticator #20/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:50:48] [Server thread/INFO]: Eduxrdo[/127.50.97.13:34491] logged in with entity id 92001 at (107.5, 61.5625, -215.5)
+[04:50:48] [Server thread/INFO]: Eduxrdo joined the game
+[04:50:48] [Server thread/INFO]: sacracoronaj[/127.77.202.121:49131] logged in with entity id 92009 at (278.5, 89.0, 74.5)
+[04:50:48] [Server thread/INFO]: sacracoronaj joined the game
+[04:53:59] [Server thread/INFO]: Nicxlv was doomed to fall by Scarleett
+[04:55:56] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
