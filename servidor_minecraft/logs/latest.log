@@ -414,3 +414,9 @@
 [06:29:03] [Server thread/INFO]: Named entity cns['Dinnerbone'/150114, l='ServerLevel[world]', x=52.48, y=94.00, z=-74.54] died: Dinnerbone was slain by Nicxlv
 [06:30:21] [Server thread/INFO]: XKOUZ lost connection: Disconnected
 [06:30:21] [Server thread/INFO]: XKOUZ left the game
+[06:42:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:46:50] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:49:13] [Server thread/WARN]: Nicxlv moved too quickly! 11.398407210569644,10.21229034970412,-6.559445270035724
+[06:49:14] [Server thread/WARN]: Nicxlv moved too quickly! 9.63652571327475,6.396960360120147,-8.289433978340327
+[06:49:34] [Server thread/WARN]: Nicxlv moved too quickly! -13.990171590600198,0.0035242189707105354,5.312974885677026
+[06:49:36] [Server thread/WARN]: Nicxlv moved too quickly! -14.82229707209433,0.0,5.607828914745362
