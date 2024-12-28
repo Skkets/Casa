@@ -143,6 +143,7 @@
       "cooked_porkchop": "2024-12-27 03:19:13 +0000",
       "mutton": "2024-12-27 02:49:45 +0000",
       "apple": "2024-12-27 02:48:37 +0000",
+      "golden_apple": "2024-12-28 06:10:05 +0000",
       "cooked_chicken": "2024-12-27 04:23:57 +0000",
       "cooked_mutton": "2024-12-27 03:06:22 +0000",
       "cooked_beef": "2024-12-27 02:57:57 +0000",
@@ -533,6 +534,7 @@
       "minecraft:blaze": "2024-12-27 03:56:44 +0000",
       "minecraft:pillager": "2024-12-28 05:00:46 +0000",
       "minecraft:skeleton": "2024-12-27 03:16:01 +0000",
+      "minecraft:witch": "2024-12-28 06:08:48 +0000",
       "minecraft:wither_skeleton": "2024-12-27 04:20:02 +0000",
       "minecraft:ravager": "2024-12-28 06:02:21 +0000",
       "minecraft:hoglin": "2024-12-27 04:23:20 +0000",
@@ -541,8 +543,10 @@
       "minecraft:silverfish": "2024-12-28 04:25:45 +0000",
       "minecraft:magma_cube": "2024-12-27 03:58:05 +0000",
       "minecraft:spider": "2024-12-27 03:19:30 +0000",
+      "minecraft:vex": "2024-12-28 06:10:34 +0000",
       "minecraft:zombie": "2024-12-27 03:10:25 +0000",
-      "minecraft:creeper": "2024-12-27 03:22:29 +0000"
+      "minecraft:creeper": "2024-12-27 03:22:29 +0000",
+      "minecraft:evoker": "2024-12-28 06:10:56 +0000"
     },
     "done": false
   },
@@ -2150,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-28 03:59:28 +0000"
@@ -2168,6 +2178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-12-28 03:59:28 +0000"
@@ -2177,6 +2193,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-28 05:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
     },
     "done": true
   },
@@ -2204,6 +2226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-28 04:17:34 +0000"
@@ -2216,9 +2244,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2024-12-28 04:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
     },
     "done": true
   },
@@ -2372,9 +2412,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2024-12-28 06:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
     },
     "done": true
   },
@@ -2426,15 +2478,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 05:00:44 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2024-12-28 06:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-28 04:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
     },
     "done": true
   },
@@ -2465,6 +2535,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-28 04:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2024-12-28 06:11:12 +0000"
     },
     "done": true
   },

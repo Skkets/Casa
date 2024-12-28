@@ -337,3 +337,58 @@
 [06:08:54] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [06:09:19] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [06:10:01] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:10:25] [Server thread/WARN]: Eduxrdo moved too quickly! 10.016297947816014,2.5040129017765196,1.3965554986054372
+[06:10:37] [Server thread/WARN]: Eduxrdo moved too quickly! -9.025850069821473,-1.969632393288805,-4.6106117107079
+[06:10:46] [Server thread/WARN]: sacracoronaj moved too quickly! -8.752142810254895,-2.0,-4.535535298551338
+[06:10:50] [Server thread/WARN]: Eduxrdo moved too quickly! -6.3948791192680545,-0.8322033533667508,-7.9334401847365825
+[06:11:02] [Server thread/WARN]: Eduxrdo moved too quickly! -9.086789678387618,-4.017663281157667,-1.2343337295237973
+[06:11:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=353, y=64, z=177} jh{x=354, y=63, z=177}
+[06:11:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=353, y=64, z=177} jh{x=354, y=63, z=177}
+[06:11:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=353, y=64, z=177} jh{x=354, y=63, z=177}
+[06:11:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=354, y=65, z=178} jh{x=355, y=64, z=177}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=353, y=63, z=179} jh{x=354, y=63, z=180}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=353, y=63, z=179} jh{x=354, y=63, z=180}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=351, y=64, z=178} jh{x=350, y=62, z=179}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=351, y=64, z=178} jh{x=350, y=62, z=179}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=351, y=64, z=178} jh{x=350, y=62, z=179}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=351, y=64, z=178} jh{x=350, y=62, z=179}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=352, y=63, z=180} jh{x=350, y=62, z=179}
+[06:11:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=352, y=63, z=180} jh{x=350, y=62, z=179}
+[06:11:44] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:12:28] [Server thread/INFO]: XKOUZ has reached the goal [Postmortal]
+[06:12:30] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:12:41] [Server thread/INFO]: Eduxrdo was slain by Vindicator
+[06:12:42] [Server thread/WARN]: sacracoronaj was kicked for floating too long!
+[06:12:43] [Server thread/INFO]: sacracoronaj lost connection: Flying is not enabled on this server
+[06:12:43] [Server thread/INFO]: sacracoronaj left the game
+[06:12:44] [Server thread/WARN]: Eduxrdo moved too quickly! 4.124297351997441,1.713346453700126,8.967704064275324
+[06:12:50] [User Authenticator #27/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[06:12:52] [Server thread/INFO]: sacracoronaj[/127.77.202.121:52685] logged in with entity id 141302 at (137.88393276498093, 65.16610926093821, -218.76688888903394)
+[06:12:52] [Server thread/INFO]: sacracoronaj joined the game
+[06:13:06] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:13:07] [Server thread/WARN]: sacracoronaj was kicked for floating too long!
+[06:13:07] [Server thread/INFO]: sacracoronaj lost connection: Flying is not enabled on this server
+[06:13:07] [Server thread/INFO]: sacracoronaj left the game
+[06:13:15] [Server thread/INFO]: jonx_x has reached the goal [Postmortal]
+[06:13:19] [User Authenticator #28/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[06:13:20] [Server thread/INFO]: sacracoronaj[/127.77.202.121:52583] logged in with entity id 141689 at (115.31741606644498, 65.7531999805212, -209.19286982096605)
+[06:13:20] [Server thread/INFO]: sacracoronaj joined the game
+[06:13:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:13:47] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:14:49] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[06:16:44] [Server thread/WARN]: sacracoronaj moved too quickly! 9.00005494264974,-3.7752370094690093,-3.1378620278243545
+[06:17:03] [Server thread/WARN]: sacracoronaj moved too quickly! 8.630800753328572,1.2491870787446828,-5.502244012362667
+[06:17:12] [Server thread/WARN]: sacracoronaj moved too quickly! 8.098697351876922,1.2478510996325411,-6.236027231519937
+[06:17:17] [Server thread/INFO]: Nicxlv was slain by Vindicator
+[06:18:05] [Server thread/WARN]: Eduxrdo was kicked for floating too long!
+[06:18:05] [Server thread/INFO]: Eduxrdo lost connection: Flying is not enabled on this server
+[06:18:05] [Server thread/INFO]: Eduxrdo left the game
+[06:18:24] [User Authenticator #29/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[06:18:25] [Server thread/INFO]: Eduxrdo[/127.50.97.13:55047] logged in with entity id 144510 at (159.3427268040282, 66.41999998688698, -224.84622635607)
+[06:18:25] [Server thread/INFO]: Eduxrdo joined the game
+[06:20:19] [Server thread/INFO]: Nicxlv was slain by Vindicator
+[06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.29942954948495526
+[06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.6786395052844227
+[06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.0578509134724072
+[06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.4370630988045718
+[06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.8162756999710723
