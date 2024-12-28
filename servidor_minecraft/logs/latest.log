@@ -23,3 +23,11 @@
 [17:58:39] [Server thread/INFO]: Nicxlv joined the game
 [18:00:10] [Server thread/INFO]: Villager cpj['Toolsmith'/104, l='ServerLevel[world]', x=278.40, y=89.06, z=86.63] died, message: 'Toolsmith was slain by Nicxlv'
 [18:00:14] [Server thread/INFO]: Villager cpj['Fisherman'/103, l='ServerLevel[world]', x=269.60, y=89.00, z=90.27] died, message: 'Fisherman was slain by Nicxlv'
+[18:13:46] [User Authenticator #2/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[18:13:47] [Server thread/INFO]: Eduxrdo[/127.50.97.13:45703] logged in with entity id 1991 at (119.69999998807907, 69.875, -221.69999998807907)
+[18:13:47] [Server thread/INFO]: Eduxrdo joined the game
+[18:14:42] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[18:14:42] [Server thread/INFO]: Nicxlv left the game
+[18:14:54] [User Authenticator #3/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[18:14:55] [Server thread/INFO]: Nicxlv[/127.194.46.31:54691] logged in with entity id 2520 at (299.17915482943204, 97.0, 75.48180951285961)
+[18:14:55] [Server thread/INFO]: Nicxlv joined the game
