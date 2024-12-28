@@ -257,3 +257,63 @@
 [05:15:51] [User Authenticator #23/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
 [05:15:52] [Server thread/INFO]: Eduxrdo[/127.50.97.13:57711] logged in with entity id 106776 at (96.4526449710169, 64.0, -161.57692151343997)
 [05:15:52] [Server thread/INFO]: Eduxrdo joined the game
+[05:21:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=102, y=60, z=-218} jh{x=102, y=61, z=-218}
+[05:21:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=102, y=60, z=-219} jh{x=102, y=61, z=-219}
+[05:22:25] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:22:53] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[05:23:24] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:23:48] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[05:24:55] [Server thread/INFO]: _N4nook has made the advancement [Sweet Dreams]
+[05:25:00] [Server thread/INFO]: <Nicxlv> wzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[05:30:04] [Server thread/WARN]: Nicxlv moved too quickly! 4.830068039088857,11.3499266276431,7.875257778542029
+[05:30:05] [Server thread/WARN]: Nicxlv moved too quickly! 12.299869560752413,4.32000012397765,5.7619039733748405
+[05:31:54] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.2821195163124024
+[05:31:54] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.6195026833097437
+[05:31:55] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 0.9595690714821838
+[05:31:55] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.3010711978077598
+[05:31:55] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.6433415589935478
+[05:37:35] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:38:09] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[05:38:33] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[05:38:33] [Server thread/INFO]: XKOUZ left the game
+[05:40:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=32, y=85, z=-69} jh{x=32, y=84, z=-69}
+[05:40:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=83, z=-63} jh{x=41, y=83, z=-62}
+[05:41:48] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:42:07] [User Authenticator #24/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[05:42:08] [Server thread/INFO]: XKOUZ[/127.68.124.2:35931] logged in with entity id 122763 at (101.01911087439478, 66.0, -212.64104360622167)
+[05:42:08] [Server thread/INFO]: XKOUZ joined the game
+[05:42:42] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Eduxrdo]
+[05:42:48] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
+[05:43:40] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:45:08] [Server thread/INFO]: XKOUZ has made the advancement [Voluntary Exile]
+[05:45:49] [Server thread/INFO]: <jonx_x> report ni
+[05:45:51] [Server thread/INFO]: <jonx_x> Nicxlv
+[05:47:02] [Server thread/INFO]: XKOUZ has completed the challenge [Hero of the Village]
+[05:47:02] [Server thread/INFO]: jonx_x has completed the challenge [Hero of the Village]
+[05:47:07] [User Authenticator #25/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
+[05:47:08] [Server thread/INFO]: diex_x[/127.12.15.75:56567] logged in with entity id 125426 at (-126.72639490802548, 70.0, -229.94774234471294)
+[05:47:08] [Server thread/INFO]: diex_x joined the game
+[05:48:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=52, y=87, z=-36} jh{x=52, y=86, z=-37}
+[05:51:11] [Server thread/INFO]: <Nicxlv> 89 67 -232
+[05:52:50] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
+[05:53:02] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:54:12] [Server thread/INFO]: sacracoronaj has completed the challenge [Hero of the Village]
+[05:56:12] [Server thread/INFO]: <diex_x> asd
+[05:56:24] [Server thread/INFO]: sacracoronaj lost connection: Timed out
+[05:56:24] [Server thread/INFO]: sacracoronaj left the game
+[05:56:33] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[05:56:47] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[05:56:53] [User Authenticator #26/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[05:56:55] [Server thread/INFO]: sacracoronaj[/127.77.202.121:33011] logged in with entity id 132490 at (99.87004844630422, 61.0, -215.60153050311644)
+[05:56:55] [Server thread/INFO]: sacracoronaj joined the game
+[05:57:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=87, z=9} jh{x=21, y=88, z=-11}
+[05:57:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=87, z=9} jh{x=21, y=88, z=-11}
+[05:57:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=87, z=9} jh{x=21, y=88, z=-11}
+[05:57:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=87, z=9} jh{x=21, y=88, z=-11}
+[05:57:13] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=40, y=87, z=9} jh{x=21, y=88, z=-11}
+[05:57:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=18, y=88, z=-13} jh{x=21, y=87, z=-13}
+[05:57:51] [Server thread/INFO]: _N4nook has made the advancement [We Need to Go Deeper]
+[05:57:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=15, y=88, z=-15} jh{x=40, y=87, z=9}
+[05:57:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=15, y=88, z=-15} jh{x=38, y=87, z=6}
+[05:58:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=15, y=88, z=-15} jh{x=34, y=87, z=2}
+[05:58:59] [Server thread/INFO]: sacracoronaj has made the advancement [Voluntary Exile]
