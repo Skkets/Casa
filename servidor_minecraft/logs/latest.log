@@ -392,3 +392,25 @@
 [06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.0578509134724072
 [06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.4370630988045718
 [06:20:23] [Server thread/WARN]: Horse (vehicle of _N4nook) moved wrongly! 1.8162756999710723
+[06:21:49] [User Authenticator #30/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
+[06:21:50] [Server thread/INFO]: diex_x[/127.12.15.75:52793] logged in with entity id 147136 at (104.00513277706078, 61.5625, -216.10003311741943)
+[06:21:50] [Server thread/INFO]: diex_x joined the game
+[06:22:30] [Server thread/INFO]: [Nicxlv: Set own game mode to Spectator Mode]
+[06:22:43] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[06:22:49] [Server thread/INFO]: jonx_x lost connection: Disconnected
+[06:22:49] [Server thread/INFO]: jonx_x left the game
+[06:23:12] [Server thread/INFO]: diex_x has made the advancement [Voluntary Exile]
+[06:24:43] [Server thread/INFO]: diex_x was slain by Vindicator
+[06:24:54] [Server thread/INFO]: diex_x has completed the challenge [Hero of the Village]
+[06:25:14] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[06:25:14] [Server thread/INFO]: Eduxrdo left the game
+[06:25:16] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[06:25:16] [Server thread/INFO]: sacracoronaj left the game
+[06:25:33] [Server thread/INFO]: diex_x lost connection: Disconnected
+[06:25:33] [Server thread/INFO]: diex_x left the game
+[06:27:53] [Server thread/INFO]: <_N4nook> dinerbone
+[06:28:12] [Server thread/INFO]: Named entity cns['dinerbone'/150097, l='ServerLevel[world]', x=62.29, y=94.00, z=-66.28] died: dinerbone was slain by Nicxlv
+[06:28:32] [Server thread/INFO]: Named entity cns['dinnerbone'/150113, l='ServerLevel[world]', x=67.74, y=96.00, z=-68.69] died: dinnerbone was slain by Nicxlv
+[06:29:03] [Server thread/INFO]: Named entity cns['Dinnerbone'/150114, l='ServerLevel[world]', x=52.48, y=94.00, z=-74.54] died: Dinnerbone was slain by Nicxlv
+[06:30:21] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[06:30:21] [Server thread/INFO]: XKOUZ left the game
