@@ -13,6 +13,7 @@
       "minecraft:deep_dark": "2024-12-27 03:17:39 +0000",
       "minecraft:cherry_grove": "2024-12-27 02:17:24 +0000",
       "minecraft:river": "2024-12-27 02:27:42 +0000",
+      "minecraft:meadow": "2024-12-28 19:41:14 +0000",
       "minecraft:dripstone_caves": "2024-12-27 02:19:26 +0000",
       "minecraft:savanna": "2024-12-27 04:59:50 +0000",
       "minecraft:plains": "2024-12-27 02:25:14 +0000"
@@ -608,7 +609,8 @@
       "bread": "2024-12-28 03:04:34 +0000",
       "cooked_chicken": "2024-12-27 02:22:54 +0000",
       "cooked_mutton": "2024-12-27 02:29:02 +0000",
-      "cooked_beef": "2024-12-27 02:44:11 +0000"
+      "cooked_beef": "2024-12-27 02:44:11 +0000",
+      "pumpkin_pie": "2024-12-28 19:43:46 +0000"
     },
     "done": false
   },
@@ -2730,6 +2732,108 @@
   "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-28 19:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-28 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-28 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-28 19:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2024-12-28 19:48:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 19:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-28 19:48:35 +0000"
     },
     "done": true
   },

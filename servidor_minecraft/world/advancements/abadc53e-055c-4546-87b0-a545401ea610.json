@@ -356,6 +356,7 @@
       "cooked_porkchop": "2024-12-27 02:29:52 +0000",
       "bread": "2024-12-27 02:49:07 +0000",
       "cooked_rabbit": "2024-12-28 19:26:45 +0000",
+      "cookie": "2024-12-28 19:59:39 +0000",
       "cooked_mutton": "2024-12-27 02:45:22 +0000",
       "cooked_beef": "2024-12-27 02:34:33 +0000"
     },
@@ -1941,6 +1942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2024-12-28 19:28:22 +0000"
@@ -1965,9 +1972,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-28 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 19:45:05 +0000"
     },
     "done": true
   },
@@ -1983,6 +2020,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-28 19:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-28 19:38:07 +0000"
@@ -1992,6 +2035,18 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
     },
     "done": true
   },
@@ -2007,9 +2062,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-28 19:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-28 19:44:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-28 20:11:55 +0000"
     },
     "done": true
   },
