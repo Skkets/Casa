@@ -241,3 +241,19 @@
 [05:04:02] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [05:05:42] [Server thread/INFO]: sacracoronaj has made the advancement [What a Deal!]
 [05:06:51] [Server thread/INFO]: jonx_x has made the advancement [What a Deal!]
+[05:14:26] [User Authenticator #21/INFO]: UUID of player _N4nook is b76b115f-1d94-47ff-ab5c-c5408e93f2a5
+[05:14:28] [Server thread/INFO]: _N4nook[/127.137.12.114:43603] logged in with entity id 106220 at (297.5897241050815, 102.0, 74.11290245955536)
+[05:14:28] [Server thread/INFO]: _N4nook joined the game
+[05:14:36] [Server thread/WARN]: Eduxrdo moved too quickly! -3.0093180698696926,0.41999998688697815,9.614057442671026
+[05:14:46] [Server thread/WARN]: Eduxrdo moved too quickly! -5.865566051227276,-1.0,8.121458379339629
+[05:14:47] [Server thread/INFO]: <Nicxlv> ad
+[05:15:14] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
+[05:15:14] [Server thread/INFO]: Eduxrdo left the game
+[05:15:42] [User Authenticator #22/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[05:15:42] [Server thread/INFO]: XKOUZ lost connection: You logged in from another location
+[05:15:42] [Server thread/INFO]: XKOUZ left the game
+[05:15:43] [Server thread/INFO]: XKOUZ[/127.68.124.2:52883] logged in with entity id 106699 at (109.38338715622511, 68.0, -187.2810293673847)
+[05:15:43] [Server thread/INFO]: XKOUZ joined the game
+[05:15:51] [User Authenticator #23/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
+[05:15:52] [Server thread/INFO]: Eduxrdo[/127.50.97.13:57711] logged in with entity id 106776 at (96.4526449710169, 64.0, -161.57692151343997)
+[05:15:52] [Server thread/INFO]: Eduxrdo joined the game
