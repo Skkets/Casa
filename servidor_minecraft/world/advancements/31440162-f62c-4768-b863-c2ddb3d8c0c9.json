@@ -533,6 +533,7 @@
       "minecraft:blaze": "2024-12-27 03:56:44 +0000",
       "minecraft:skeleton": "2024-12-27 03:16:01 +0000",
       "minecraft:enderman": "2024-12-27 03:35:59 +0000",
+      "minecraft:silverfish": "2024-12-28 04:25:45 +0000",
       "minecraft:magma_cube": "2024-12-27 03:58:05 +0000",
       "minecraft:spider": "2024-12-27 03:19:30 +0000",
       "minecraft:wither_skeleton": "2024-12-27 04:20:02 +0000",
@@ -2212,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-28 04:31:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-28 04:17:27 +0000"
@@ -2239,6 +2246,12 @@
   "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-28 04:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-28 04:31:55 +0000"
     },
     "done": true
   },

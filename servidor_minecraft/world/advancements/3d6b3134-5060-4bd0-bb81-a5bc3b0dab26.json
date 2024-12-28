@@ -7,6 +7,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-12-28 04:24:51 +0000",
+      "minecraft:savanna_plateau": "2024-12-28 04:21:02 +0000",
+      "minecraft:stony_peaks": "2024-12-28 04:20:21 +0000",
       "minecraft:forest": "2024-12-27 01:51:09 +0000",
       "minecraft:sparse_jungle": "2024-12-28 04:10:30 +0000",
       "minecraft:jungle": "2024-12-28 04:08:52 +0000",
@@ -1091,7 +1094,8 @@
     "criteria": {
       "minecraft:breeze": "2024-12-27 02:44:35 +0000",
       "minecraft:stray": "2024-12-27 02:21:25 +0000",
-      "minecraft:zombie": "2024-12-27 02:14:03 +0000"
+      "minecraft:zombie": "2024-12-27 02:14:03 +0000",
+      "minecraft:husk": "2024-12-28 04:45:01 +0000"
     },
     "done": false
   },
@@ -1881,12 +1885,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-28 04:11:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-28 04:11:57 +0000"
@@ -1926,6 +1924,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-28 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-28 04:11:58 +0000"
     },
     "done": true
   },
