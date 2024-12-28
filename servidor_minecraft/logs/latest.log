@@ -434,3 +434,18 @@
 [07:28:39] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [07:37:32] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [07:38:58] [Server thread/INFO]: Villager cpj['Librarian'/15443, l='ServerLevel[world]', x=143.62, y=66.00, z=-249.38] died, message: 'Librarian was burned to a crisp while fighting Tiukk'
+[07:57:52] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[07:57:52] [Server thread/INFO]: Nicxlv left the game
+[07:57:55] [Server thread/INFO]: Tiukk lost connection: Disconnected
+[07:57:55] [Server thread/INFO]: Tiukk left the game
+[07:58:06] [Server thread/INFO]: Stopping the server
+[07:58:06] [Server thread/INFO]: Stopping server
+[07:58:06] [Server thread/INFO]: Saving players
+[07:58:06] [Server thread/INFO]: Saving worlds
+[07:58:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:58:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:58:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:58:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:58:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:58:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:58:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
