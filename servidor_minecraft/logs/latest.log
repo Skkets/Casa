@@ -103,3 +103,35 @@
 [03:47:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=8, y=84, z=-4} jh{x=12, y=82, z=-14}
 [03:47:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=8, y=84, z=-4} jh{x=12, y=82, z=-14}
 [03:47:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=8, y=84, z=-4} jh{x=12, y=82, z=-14}
+[03:47:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:48:19] [User Authenticator #10/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[03:48:20] [Server thread/INFO]: jonx_x[/127.141.98.190:56755] logged in with entity id 35070 at (497.9171738874899, 95.0, 5.878744253594067)
+[03:48:20] [Server thread/INFO]: jonx_x joined the game
+[03:48:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=17, y=78, z=-25} jh{x=-1, y=71, z=-32}
+[03:53:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=153, y=99, z=-106} jh{x=154, y=96, z=-105}
+[03:53:35] [Server thread/INFO]: Villager cpj['Fisherman'/15439, l='ServerLevel[world]', x=144.55, y=66.56, z=-250.76] died, message: 'Fisherman was slain by Zombie'
+[03:53:42] [Server thread/INFO]: Villager cpj['Weaponsmith'/15436, l='ServerLevel[world]', x=143.96, y=66.56, z=-251.53] died, message: 'Weaponsmith was slain by Zombie'
+[03:55:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=195, y=85, z=-138} jh{x=194, y=84, z=-137}
+[03:57:52] [Server thread/INFO]: jonx_x was impaled on a stalagmite
+[03:58:33] [Server thread/INFO]: <sacracoronaj> 521 75
+[04:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-27, y=94, z=-61} jh{x=-28, y=93, z=-61}
+[04:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-28, y=95, z=-60} jh{x=-28, y=93, z=-61}
+[04:00:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-28, y=95, z=-60} jh{x=-27, y=92, z=-61}
+[04:01:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:01:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:01:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:01:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:01:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:01:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-20, y=96, z=-62} jh{x=5, y=96, z=-150}
+[04:05:20] [Server thread/INFO]: jonx_x has made the advancement [Sneak 100]
+[04:06:12] [User Authenticator #11/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[04:06:13] [Server thread/INFO]: Scarleett[/127.116.157.213:47395] logged in with entity id 47501 at (-2605.300000011921, 68.0, 1684.3925746412845)
+[04:06:13] [Server thread/INFO]: Scarleett joined the game
+[04:06:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:07:02] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
+[04:08:04] [Server thread/INFO]: XKOUZ has made the advancement [Sneak 100]
+[04:08:06] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[04:08:06] [Server thread/INFO]: sacracoronaj left the game
+[04:08:16] [User Authenticator #12/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:08:17] [Server thread/INFO]: sacracoronaj[/127.77.202.121:50483] logged in with entity id 49667 at (584.6999999880791, -23.0, 72.39716583169208)
+[04:08:17] [Server thread/INFO]: sacracoronaj joined the game
