@@ -1,261 +1,82 @@
-[17:58:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:58:17] [ServerMain/INFO]: Loaded 1337 recipes
-[17:58:17] [ServerMain/INFO]: Loaded 1448 advancements
-[17:58:17] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[17:58:17] [Server thread/INFO]: Loading properties
-[17:58:17] [Server thread/INFO]: Default game type: SURVIVAL
-[17:58:17] [Server thread/INFO]: Generating keypair
-[17:58:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:58:17] [Server thread/INFO]: Using epoll channel type
-[17:58:17] [Server thread/INFO]: Preparing level "world"
-[17:58:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:58:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:58:21] [Server thread/INFO]: Time elapsed: 3123 ms
-[17:58:21] [Server thread/INFO]: Done (3.518s)! For help, type "help"
-[17:58:37] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[17:58:39] [Server thread/INFO]: Nicxlv[/127.194.46.31:41961] logged in with entity id 23 at (278.39596452250987, 90.0, 83.0673487738689)
-[17:58:39] [Server thread/INFO]: Nicxlv joined the game
-[18:00:10] [Server thread/INFO]: Villager cpj['Toolsmith'/104, l='ServerLevel[world]', x=278.40, y=89.06, z=86.63] died, message: 'Toolsmith was slain by Nicxlv'
-[18:00:14] [Server thread/INFO]: Villager cpj['Fisherman'/103, l='ServerLevel[world]', x=269.60, y=89.00, z=90.27] died, message: 'Fisherman was slain by Nicxlv'
-[18:13:46] [User Authenticator #2/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
-[18:13:47] [Server thread/INFO]: Eduxrdo[/127.50.97.13:45703] logged in with entity id 1991 at (119.69999998807907, 69.875, -221.69999998807907)
-[18:13:47] [Server thread/INFO]: Eduxrdo joined the game
-[18:14:42] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[18:14:42] [Server thread/INFO]: Nicxlv left the game
-[18:14:54] [User Authenticator #3/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[18:14:55] [Server thread/INFO]: Nicxlv[/127.194.46.31:54691] logged in with entity id 2520 at (299.17915482943204, 97.0, 75.48180951285961)
-[18:14:55] [Server thread/INFO]: Nicxlv joined the game
-[18:18:46] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
-[18:18:46] [Server thread/INFO]: Eduxrdo left the game
-[18:19:51] [User Authenticator #4/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
-[18:19:52] [Server thread/INFO]: Eduxrdo[/127.50.97.13:37733] logged in with entity id 3930 at (112.19133095428354, 67.6281999805212, -215.76249998807907)
-[18:19:52] [Server thread/INFO]: Eduxrdo joined the game
-[18:30:02] [User Authenticator #5/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[18:30:03] [Server thread/INFO]: sacracoronaj[/127.43.195.213:53535] logged in with entity id 8345 at (113.10261152295172, 65.0, -227.8952928334125)
-[18:30:03] [Server thread/INFO]: sacracoronaj joined the game
-[18:30:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-417, y=56, z=-758} jh{x=-417, y=57, z=-758}
-[18:42:55] [Server thread/INFO]: sacracoronaj has reached the goal [Postmortal]
-[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.30680420891252425
-[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.7579057515661702
-[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.2119420266859038
-[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.527502822944541
-[18:43:01] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.7736196756375193
-[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.26384095535740926
-[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 0.6982738398323818
-[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.096056605713784
-[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.3089022328044848
-[18:44:48] [Server thread/WARN]: Horse (vehicle of Eduxrdo) moved wrongly! 1.4227916841764454
-[18:46:18] [Worker-Main-3/ERROR]: Failed to fetch mob spawner entity at (-3016, 1, -532)
-[18:56:08] [Server thread/INFO]: Nicxlv has made the advancement [Glow and Behold!]
-[18:58:25] [Server thread/INFO]: Nicxlv has made the advancement [What a Deal!]
-[19:00:50] [User Authenticator #6/INFO]: UUID of player TsuruCachondito is db70339d-1f1f-454d-9f5c-e3901cac0124
-[19:00:51] [Server thread/INFO]: TsuruCachondito[/127.72.110.131:54263] logged in with entity id 33905 at (-107.5, 121.0, 82.5)
-[19:00:51] [Server thread/INFO]: TsuruCachondito joined the game
-[19:02:02] [Server thread/INFO]: <TsuruCachondito> send u coords Eduxrdo
-[19:02:17] [Server thread/INFO]: <Eduxrdo> -3011 90 -327
-[19:02:32] [Server thread/INFO]: Villager cpj['Librarian'/24478, l='ServerLevel[world]', x=289.32, y=96.00, z=89.50] died, message: 'Librarian was slain by Nicxlv'
-[19:02:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-2991, y=72, z=-322} jh{x=-3011, y=91, z=-324}
-[19:05:32] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:07:10] [Server thread/WARN]: Oak Boat (vehicle of TsuruCachondito) moved wrongly! 0.33155377605646663
-[19:07:10] [Server thread/WARN]: Oak Boat (vehicle of TsuruCachondito) moved wrongly! 0.5851459175448781
-[19:10:01] [User Authenticator #7/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[19:10:02] [Server thread/INFO]: XKOUZ[/127.68.124.2:51727] logged in with entity id 41286 at (116.79706882633958, 67.0, -204.2593450248024)
-[19:10:02] [Server thread/INFO]: XKOUZ joined the game
-[19:10:31] [Server thread/INFO]: TsuruCachondito has made the advancement [Monster Hunter]
-[19:10:51] [Server thread/INFO]: TsuruCachondito has made the advancement [A Seedy Place]
-[19:11:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-3010, y=61, z=-322} jh{x=-3008, y=91, z=-327}
-[19:11:52] [Server thread/INFO]: TsuruCachondito has made the advancement [Stone Age]
-[19:12:26] [Server thread/INFO]: Eduxrdo lost connection: Timed out
-[19:12:26] [Server thread/INFO]: Eduxrdo left the game
-[19:12:26] [Server thread/WARN]: handleDisconnection() called twice
-[19:12:37] [Server thread/INFO]: sacracoronaj lost connection: Timed out
-[19:12:37] [Server thread/INFO]: sacracoronaj left the game
-[19:12:48] [Server thread/INFO]: XKOUZ lost connection: Timed out
-[19:12:48] [Server thread/INFO]: XKOUZ left the game
-[19:12:56] [Server thread/INFO]: XKOUZ (/127.68.124.2:36979) lost connection: Disconnected
-[19:13:07] [Server thread/INFO]: sacracoronaj (/127.43.195.213:48887) lost connection: Disconnected
-[19:13:18] [User Authenticator #8/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[19:13:20] [Server thread/INFO]: sacracoronaj[/127.43.195.213:60901] logged in with entity id 43681 at (106.30529120772425, 64.0, -172.1350526024335)
-[19:13:20] [Server thread/INFO]: sacracoronaj joined the game
-[19:13:20] [User Authenticator #9/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[19:13:21] [Server thread/INFO]: XKOUZ[/127.68.124.2:42757] logged in with entity id 43969 at (107.88665833333016, 75.0, -165.26758094640022)
-[19:13:21] [Server thread/INFO]: XKOUZ joined the game
-[19:13:32] [User Authenticator #10/INFO]: UUID of player Eduxrdo is 0cca5426-c280-4e89-aafe-6565988f9c8d
-[19:13:33] [Server thread/INFO]: Eduxrdo[/127.50.97.13:39533] logged in with entity id 44063 at (-3007.7999999999993, 90.65, -325.5)
-[19:13:33] [Server thread/INFO]: Eduxrdo joined the game
-[19:13:39] [User Authenticator #11/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
-[19:13:41] [Server thread/INFO]: Tiukk[/127.168.226.231:59189] logged in with entity id 44441 at (118.42565796198616, 71.0, -265.5477243668561)
-[19:13:41] [Server thread/INFO]: Tiukk joined the game
-[19:14:16] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:14:37] [Server thread/INFO]: TsuruCachondito has made the advancement [Getting an Upgrade]
-[19:15:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=121, y=68, z=-263} jh{x=121, y=66, z=-248}
-[19:18:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-19, y=96, z=-134} jh{x=-19, y=95, z=-133}
-[19:19:49] [Server thread/INFO]: Villager cpj['Villager'/24636, l='ServerLevel[world]', x=299.69, y=96.00, z=75.33] died, message: 'Villager was slain by Nicxlv'
-[19:20:03] [Server thread/INFO]: Villager cpj['Villager'/50665, l='ServerLevel[world]', x=299.70, y=96.00, z=75.38] died, message: 'Villager was slain by Nicxlv'
-[19:20:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-58, y=93, z=-104} jh{x=-58, y=93, z=-105}
-[19:22:53] [Server thread/INFO]: Villager cpj['Librarian'/24683, l='ServerLevel[world]', x=299.40, y=96.00, z=87.30] died, message: 'Librarian was slain by Nicxlv'
-[19:22:55] [Server thread/INFO]: Villager cpj['Villager'/53655, l='ServerLevel[world]', x=298.90, y=96.37, z=87.58] died, message: 'Villager was slain by Nicxlv'
-[19:24:01] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:24:18] [Server thread/INFO]: Villager cpj['Villager'/53175, l='ServerLevel[world]', x=297.08, y=96.75, z=76.62] died, message: 'Villager was slain by Nicxlv'
-[19:25:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=119, y=69, z=-272} jh{x=118, y=68, z=-272}
-[19:26:15] [User Authenticator #12/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
-[19:26:16] [Server thread/INFO]: diex_x[/127.12.15.75:37147] logged in with entity id 56613 at (100.28998073078175, 61.0, -218.1508101501839)
-[19:26:16] [Server thread/INFO]: diex_x joined the game
-[19:26:57] [Server thread/INFO]: <Eduxrdo> duerman
-[19:27:12] [Server thread/INFO]: <Nicxlv> zzzz
-[19:27:17] [Server thread/INFO]: <diex_x> duerman
-[19:27:25] [Server thread/INFO]: TsuruCachondito has made the advancement [Sweet Dreams]
-[19:27:56] [Server thread/WARN]: Nicxlv moved too quickly! -0.12673131910520397,0.48249998688697815,10.186741037159393
-[19:28:14] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=120, y=67, z=-274} jh{x=124, y=69, z=-274}
-[19:28:32] [Server thread/INFO]: Nicxlv lost connection: Timed out
-[19:28:32] [Server thread/INFO]: Nicxlv left the game
-[19:28:37] [User Authenticator #13/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[19:28:37] [Server thread/INFO]: Nicxlv[/127.194.46.31:35435] logged in with entity id 58269 at (294.7967672757319, 97.0, 92.92500001192093)
-[19:28:37] [Server thread/INFO]: Nicxlv joined the game
-[19:29:02] [Server thread/INFO]: <diex_x> igual son mierda
-[19:29:13] [Server thread/INFO]: <diex_x> joaco
-[19:29:14] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[19:29:15] [Server thread/INFO]: <diex_x> tienes cmida?
-[19:29:17] [Server thread/INFO]: <diex_x> :3
-[19:29:26] [Server thread/INFO]: <diex_x> watafak
-[19:29:27] [Server thread/INFO]: Villager cpj['Librarian'/58281, l='ServerLevel[world]', x=289.30, y=96.00, z=81.50] died, message: 'Librarian was slain by Nicxlv'
-[19:30:31] [Server thread/INFO]: sacracoronaj has made the advancement [A Seedy Place]
-[19:32:11] [Server thread/INFO]: TsuruCachondito has made the advancement [We Need to Go Deeper]
-[19:32:37] [Server thread/INFO]: <TsuruCachondito> donde estan
-[19:32:59] [Server thread/INFO]: <XKOUZ> 110 -209
-[19:33:11] [Server thread/INFO]: <TsuruCachondito> de allá vengo
-[19:33:59] [Server thread/INFO]: Villager cpj['Librarian'/58285, l='ServerLevel[world]', x=297.51, y=97.00, z=90.02] died, message: 'Librarian was slain by Nicxlv'
-[19:34:23] [Server thread/INFO]: Villager cpj['Villager'/62842, l='ServerLevel[world]', x=297.51, y=97.00, z=74.54] died, message: 'Villager was slain by Nicxlv'
-[19:34:27] [Server thread/INFO]: <diex_x> JOACO
-[19:34:28] [Server thread/INFO]: <diex_x> COMIDA
-[19:34:29] [Server thread/INFO]: <diex_x> REGAÑLAME
-[19:34:36] [Server thread/INFO]: <diex_x> GRACIAS BRO
-[19:39:02] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[19:39:02] [Server thread/INFO]: sacracoronaj left the game
-[19:39:31] [Server thread/INFO]: Nicxlv lost connection: Disconnected
-[19:39:31] [Server thread/INFO]: Nicxlv left the game
-[19:39:38] [User Authenticator #14/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
-[19:39:38] [Server thread/INFO]: sacracoronaj[/127.43.195.213:54855] logged in with entity id 66896 at (195.30000001192093, -50.5, 407.30000001192093)
-[19:39:38] [Server thread/INFO]: sacracoronaj joined the game
-[19:40:29] [Server thread/INFO]: <sacracoronaj> 111 381
-[19:40:32] [Server thread/INFO]: <sacracoronaj> -42
-[19:41:16] [User Authenticator #15/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
-[19:41:17] [Server thread/INFO]: Nicxlv[/127.194.46.31:39921] logged in with entity id 68633 at (296.97744477685325, 96.0, 81.32546825425227)
-[19:41:17] [Server thread/INFO]: Nicxlv joined the game
-[19:43:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=117, y=65, z=-175} jh{x=119, y=64, z=-175}
-[19:43:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=117, y=64, z=-175} jh{x=119, y=64, z=-175}
-[19:43:14] [Server thread/INFO]: Eduxrdo lost connection: Disconnected
-[19:43:14] [Server thread/INFO]: Eduxrdo left the game
-[19:43:37] [Server thread/INFO]: Villager cpj['Librarian'/68645, l='ServerLevel[world]', x=289.30, y=96.00, z=85.55] died, message: 'Librarian was slain by Nicxlv'
-[19:44:08] [Server thread/INFO]: diex_x has made the advancement [What a Deal!]
-[19:46:40] [Server thread/INFO]: Villager cpj['Librarian'/68717, l='ServerLevel[world]', x=289.30, y=96.00, z=75.52] died, message: 'Librarian was slain by Nicxlv'
-[19:47:41] [Server thread/INFO]: <diex_x> hay p4?
-[19:47:43] [Server thread/INFO]: <diex_x> o es pura p3
-[19:47:45] [Server thread/INFO]: <diex_x> de aldeanos
-[19:47:53] [Server thread/INFO]: <diex_x> :v
-[19:47:56] [Server thread/INFO]: Villager cpj['Librarian'/68718, l='ServerLevel[world]', x=299.68, y=96.00, z=77.50] died, message: 'Librarian was slain by Nicxlv'
-[19:47:56] [Server thread/INFO]: <diex_x> no sacaron p4 real?
-[19:48:04] [Server thread/INFO]: <diex_x> que troll
-[19:48:39] [Server thread/INFO]: <diex_x> si mueres
-[19:48:40] [Server thread/INFO]: <diex_x> se va
-[19:48:47] [Server thread/INFO]: <diex_x> ya pero solo si mueres
-[19:49:26] [Server thread/INFO]: <diex_x> sacaro filo5 o 4?
-[19:49:28] [Server thread/INFO]: <diex_x> saco eso?
-[19:50:02] [Server thread/INFO]: Villager cpj['Librarian'/68720, l='ServerLevel[world]', x=299.70, y=96.00, z=75.50] died, message: 'Librarian was slain by Nicxlv'
-[19:50:54] [Server thread/INFO]: Villager cpj['Librarian'/77216, l='ServerLevel[world]', x=289.30, y=96.00, z=75.70] died, message: 'Librarian was slain by Nicxlv'
-[19:51:07] [Server thread/INFO]: Villager cpj['Librarian'/79190, l='ServerLevel[world]', x=299.70, y=96.00, z=75.52] died, message: 'Librarian was slain by Nicxlv'
-[19:51:09] [Server thread/INFO]: Villager cpj['Librarian'/79439, l='ServerLevel[world]', x=289.30, y=96.00, z=75.64] died, message: 'Librarian was slain by Nicxlv'
-[19:51:22] [Server thread/INFO]: Villager cpj['Villager'/79734, l='ServerLevel[world]', x=290.10, y=96.13, z=75.43] died, message: 'Villager was slain by Nicxlv'
-[19:51:27] [Server thread/INFO]: Villager cpj['Librarian'/79667, l='ServerLevel[world]', x=289.30, y=96.00, z=75.30] died, message: 'Librarian was slain by Nicxlv'
-[19:51:30] [Server thread/INFO]: Villager cpj['Librarian'/79697, l='ServerLevel[world]', x=299.70, y=96.00, z=75.54] died, message: 'Librarian was slain by Nicxlv'
-[19:53:51] [Server thread/INFO]: <diex_x> Nicxlv
-[19:53:55] [Server thread/INFO]: <Nicxlv> q
-[19:53:57] [Server thread/INFO]: <diex_x> estas buscando caida de pluma4?
-[19:54:02] [Server thread/INFO]: <Nicxlv> si
-[19:54:05] [Server thread/INFO]: <diex_x> aca hay un aldeano
-[19:54:28] [Server thread/INFO]: <diex_x> le voy a tradear para que no se vaya el enchant
-[19:54:28] [Server thread/INFO]: <Nicxlv> si s
-[19:54:30] [Server thread/INFO]: <diex_x> a
-[19:54:31] [Server thread/INFO]: <diex_x> :v
-[19:54:36] [Server thread/INFO]: <Nicxlv> irro 3
-[19:54:40] [Server thread/INFO]: <diex_x> buscas?
-[19:54:40] [Server thread/INFO]: <Nicxlv> no conseguinmos
-[19:54:40] [Server thread/INFO]: <diex_x> ok
-[19:54:46] [Server thread/INFO]: <diex_x> intentare buscar eso entonces
-[19:55:42] [Server thread/INFO]: <TsuruCachondito> yo
-[19:55:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=94, y=70, z=-248} jh{x=99, y=65, z=-212}
-[19:56:52] [Server thread/INFO]: <diex_x> donde esta esa cosa para quitar encantamientos
-[19:57:00] [Server thread/INFO]: <XKOUZ> 110 -209
-[19:57:02] [Server thread/INFO]: <diex_x> avel
-[19:57:10] [Server thread/INFO]: <diex_x> a
-[19:57:12] [Server thread/INFO]: <diex_x> gracias
-[19:58:37] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[19:59:25] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[20:02:44] [Server thread/INFO]: <diex_x> tienes yunque ?wd
-[20:03:30] [Server thread/INFO]: <diex_x> omg
-[20:03:31] [Server thread/INFO]: <diex_x> bro
-[20:03:36] [Server thread/INFO]: <diex_x> ojala no te dropee rodrysabe
-[20:03:43] [Server thread/INFO]: <diex_x> :,v
-[20:03:44] [Server thread/INFO]: <TsuruCachondito> lol
-[20:04:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[20:05:43] [Server thread/INFO]: <diex_x> a la mierda
-[20:05:52] [Server thread/INFO]: <diex_x> estas todo vivido
-[20:06:18] [Server thread/INFO]: XKOUZ lost connection: Disconnected
-[20:06:18] [Server thread/INFO]: XKOUZ left the game
-[20:07:06] [User Authenticator #16/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
-[20:07:08] [Server thread/INFO]: XKOUZ[/127.68.124.2:58567] logged in with entity id 91310 at (294.5629062317858, 96.0, 74.96304846090284)
-[20:07:08] [Server thread/INFO]: XKOUZ joined the game
-[20:07:43] [Server thread/INFO]: <diex_x> o sea fabric es bueno?
-[20:07:50] [Server thread/INFO]: <diex_x> :v
-[20:07:57] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
-[20:07:57] [Server thread/INFO]: sacracoronaj left the game
-[20:11:42] [Server thread/INFO]: [Nicxlv: Removed 127 item(s) from player Nicxlv]
-[20:11:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[20:12:06] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=139, y=88, z=-127} jh{x=138, y=88, z=-127}
-[20:12:53] [Server thread/INFO]: <TsuruCachondito> qn tiene hierro q me done
-[20:17:35] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[20:17:43] [Server thread/INFO]: <diex_x> si creo
-[20:17:45] [Server thread/INFO]: <diex_x> unbreaking
-[20:17:49] [Server thread/INFO]: <diex_x> si
-[20:17:51] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[20:17:53] [Server thread/INFO]: <diex_x> prueba igual
-[20:17:57] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[20:18:04] [Server thread/INFO]: <diex_x> aja
-[20:18:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
-[20:18:36] [Server thread/INFO]: <diex_x> hay algun aldeano que te de pico?
-[20:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=544, y=110, z=44} jh{x=544, y=104, z=43}
-[20:28:06] [Server thread/INFO]: TsuruCachondito lost connection: Disconnected
-[20:28:06] [Server thread/INFO]: TsuruCachondito left the game
-[20:30:34] [User Authenticator #17/INFO]: UUID of player TsuruCachondito is db70339d-1f1f-454d-9f5c-e3901cac0124
-[20:30:34] [Server thread/INFO]: TsuruCachondito[/127.72.110.131:46789] logged in with entity id 105917 at (41.20783256979436, 6.0, -218.30000001192093)
-[20:30:34] [Server thread/INFO]: TsuruCachondito joined the game
-[20:31:22] [Server thread/WARN]: Nicxlv moved too quickly! -6.067433405507472,0.0625,-7.964793882415037
-[20:32:10] [Server thread/INFO]: Nicxlv has made the advancement [A Throwaway Joke]
-[20:34:16] [Server thread/INFO]: [Nicxlv: Set the weather to rain & thunder]
-[20:35:44] [Server thread/INFO]: TsuruCachondito has made the advancement [Acquire Hardware]
-[20:35:56] [Server thread/INFO]: <XKOUZ> la casa gay sufrio un atentado
-[20:36:07] [Server thread/INFO]: <TsuruCachondito> ostras
-[20:36:12] [Server thread/INFO]: <diex_x> COMO QUE UN ATENTADO
-[20:36:13] [Server thread/INFO]: <diex_x> QUIEN FUE
-[20:36:29] [Server thread/INFO]: <XKOUZ> me estaba esperando un arabe fuera de la casa
-[20:36:36] [Server thread/INFO]: <diex_x> MMMMMM
-[20:36:38] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
-[20:36:41] [Server thread/INFO]: <XKOUZ> exploto toda la esquina
-[20:38:19] [Server thread/INFO]: <XKOUZ> likke
-[20:38:22] [Server thread/INFO]: <XKOUZ> llevalo a tu casa
-[20:38:24] [Server thread/INFO]: <XKOUZ> como trofeo
-[20:38:48] [Server thread/INFO]: <XKOUZ> noo
-[20:39:00] [Server thread/INFO]: <Nicxlv> ahi hay otro
-[20:39:00] [Server thread/INFO]: <XKOUZ> lo hubieras llevado de exhibicion
-[20:39:00] [Server thread/INFO]: TsuruCachondito has made the advancement [Isn't It Iron Pick]
-[20:39:16] [Server thread/INFO]: <diex_x> Nicxlv
-[20:39:19] [Server thread/INFO]: <diex_x> haran granja de endermans?
-[20:39:20] [Server thread/INFO]: <diex_x> :v
-[20:40:26] [Server thread/INFO]: TsuruCachondito has made the advancement [Diamonds!]
-[20:40:47] [Server thread/INFO]: <XKOUZ> trampilla
+[01:23:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:23:28] [ServerMain/INFO]: Loaded 1337 recipes
+[01:23:28] [ServerMain/INFO]: Loaded 1448 advancements
+[01:23:28] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:23:28] [Server thread/INFO]: Loading properties
+[01:23:28] [Server thread/INFO]: Default game type: SURVIVAL
+[01:23:28] [Server thread/INFO]: Generating keypair
+[01:23:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:23:28] [Server thread/INFO]: Using epoll channel type
+[01:23:28] [Server thread/INFO]: Preparing level "world"
+[01:23:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:23:32] [User Authenticator #1/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:23:32] [Server thread/INFO]: Time elapsed: 3442 ms
+[01:23:32] [Server thread/INFO]: Done (3.824s)! For help, type "help"
+[01:23:34] [Server thread/INFO]: Nicxlv[/127.194.46.31:60721] logged in with entity id 21 at (291.30000001192093, 96.0, 77.45086696342855)
+[01:23:34] [Server thread/INFO]: Nicxlv joined the game
+[01:23:42] [User Authenticator #2/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[01:23:43] [Server thread/INFO]: Scarleett[/127.116.157.213:51939] logged in with entity id 303 at (780.6999999880791, -37.0, -227.39074663837587)
+[01:23:43] [Server thread/INFO]: Scarleett joined the game
+[01:24:31] [User Authenticator #3/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
+[01:24:32] [Server thread/INFO]: diex_x[/127.12.15.75:43221] logged in with entity id 721 at (101.44718545563424, 61.5625, -216.72112398493516)
+[01:24:32] [Server thread/INFO]: diex_x joined the game
+[01:24:38] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[01:24:41] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
+[01:25:49] [User Authenticator #4/INFO]: UUID of player jonx_x is 31440162-f62c-4768-b863-c2ddb3d8c0c9
+[01:25:50] [Server thread/INFO]: jonx_x[/127.141.98.190:42979] logged in with entity id 1517 at (109.44787798687283, 61.61874923110645, -212.56271025800459)
+[01:25:50] [Server thread/INFO]: jonx_x joined the game
+[01:26:42] [Server thread/INFO]: Villager cpj['Villager'/779, l='ServerLevel[world]', x=108.94, y=62.00, z=-208.70] died, message: 'Villager suffocated in a wall'
+[01:27:19] [Server thread/INFO]: <diex_x> :,V
+[01:29:06] [Server thread/INFO]: Scarleett has made the advancement [Not Today, Thank You]
+[01:29:45] [User Authenticator #5/INFO]: UUID of player Tiukk is 582606ef-cb1a-4578-8f87-a6e67ad8f919
+[01:29:48] [Server thread/INFO]: Tiukk[/127.168.226.231:39949] logged in with entity id 3210 at (111.33435820866674, 61.5625, -213.87383125259018)
+[01:29:48] [Server thread/INFO]: Tiukk joined the game
+[01:31:58] [Server thread/INFO]: diex_x has made the advancement [Take Aim]
+[01:38:28] [Server thread/INFO]: <diex_x> afk 1s
+[01:42:03] [Server thread/INFO]: <jonx_x> zzzzzzzzzz
+[01:42:06] [Server thread/INFO]: <Nicxlv> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[01:44:31] [Server thread/INFO]: <jonx_x> afk 1 min
+[01:45:02] [Server thread/INFO]: Scarleett has made the advancement [What a Deal!]
+[01:47:36] [User Authenticator #6/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[01:47:37] [Server thread/INFO]: XKOUZ[/127.68.124.2:38695] logged in with entity id 18263 at (102.45970464879755, 66.0, -214.1321758991942)
+[01:47:37] [Server thread/INFO]: XKOUZ joined the game
+[01:48:06] [Server thread/INFO]: Scarleett has made the advancement [We Need to Go Deeper]
+[01:48:10] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[01:48:10] [Server thread/INFO]: XKOUZ left the game
+[01:48:24] [User Authenticator #7/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[01:48:25] [Server thread/INFO]: XKOUZ[/127.68.124.2:43859] logged in with entity id 19644 at (106.59158774719118, 66.0, -219.49451256133028)
+[01:48:25] [Server thread/INFO]: XKOUZ joined the game
+[01:49:24] [Server thread/INFO]: XKOUZ has made the advancement [The Parrots and the Bats]
+[01:52:06] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved too quickly! 2.3199507860724964,0.0,-9.803485103249585
+[01:52:06] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved too quickly! 2.398761856153584,0.0,-10.217341213633546
+[01:52:06] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved too quickly! 2.4699142977382564,0.0,-10.632632756489485
+[01:54:39] [Server thread/INFO]: <Nicxlv> 1012 32 511
+[01:57:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=67, z=-273} jh{x=75, y=67, z=-273}
+[01:57:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=67, z=-273} jh{x=75, y=67, z=-273}
+[01:57:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=67, z=-273} jh{x=75, y=67, z=-273}
+[01:58:22] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 0.28342733438103096
+[01:58:22] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 0.6704726847094662
+[01:58:22] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 1.045193050375019
+[01:58:22] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 1.3886832781644216
+[02:01:40] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 0.2869644370040305
+[02:01:40] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 0.6989952853042496
+[02:01:40] [Server thread/WARN]: Skeleton Horse (vehicle of Nicxlv) moved wrongly! 1.1072795612875552
+[02:03:36] [Server thread/INFO]: Nicxlv has made the advancement [Total Beelocation]
+[02:03:45] [Server thread/INFO]: jonx_x was shot by Skeleton
+[02:05:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=86, y=64, z=-188} jh{x=85, y=62, z=-190}
+[02:07:11] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:08:40] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[02:11:40] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:12:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[02:13:24] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[02:14:20] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[02:15:56] [Server thread/INFO]: Nicxlv lost connection: Disconnected
+[02:15:56] [Server thread/INFO]: Nicxlv left the game
+[02:21:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=48, y=61, z=-231} jh{x=49, y=59, z=-231}
