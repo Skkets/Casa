@@ -80,3 +80,6 @@
 [02:15:56] [Server thread/INFO]: Nicxlv lost connection: Disconnected
 [02:15:56] [Server thread/INFO]: Nicxlv left the game
 [02:21:15] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=48, y=61, z=-231} jh{x=49, y=59, z=-231}
+[02:31:45] [User Authenticator #8/INFO]: UUID of player Nicxlv is 15c31222-00af-48cf-8f3c-a99f1659c907
+[02:31:46] [Server thread/INFO]: Nicxlv[/127.194.46.31:50667] logged in with entity id 58545 at (221.3017578125, 65.51249995231629, -117.26678260294582)
+[02:31:46] [Server thread/INFO]: Nicxlv joined the game
