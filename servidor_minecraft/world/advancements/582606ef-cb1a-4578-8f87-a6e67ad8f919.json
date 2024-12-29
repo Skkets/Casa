@@ -904,6 +904,7 @@
       "minecraft:phantom": "2024-12-27 05:52:57 +0000",
       "minecraft:witch": "2024-12-28 06:06:43 +0000",
       "minecraft:ravager": "2024-12-27 05:57:14 +0000",
+      "minecraft:piglin": "2024-12-29 02:40:41 +0000",
       "minecraft:vindicator": "2024-12-27 03:53:10 +0000",
       "minecraft:enderman": "2024-12-27 03:56:49 +0000",
       "minecraft:spider": "2024-12-27 03:20:15 +0000",
@@ -2425,6 +2426,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2024-12-29 02:37:36 +0000",
       "minecraft:basalt_deltas": "2024-12-28 03:17:03 +0000"
     },
     "done": false
@@ -2879,6 +2881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-29 02:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-29 02:13:05 +0000"
@@ -2960,6 +2968,12 @@
   "minecraft:recipes/food/suspicious_stew_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-29 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-29 02:39:45 +0000"
     },
     "done": true
   },

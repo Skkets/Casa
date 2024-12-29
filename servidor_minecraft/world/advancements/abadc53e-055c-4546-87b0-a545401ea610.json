@@ -361,6 +361,7 @@
       "bread": "2024-12-27 02:49:07 +0000",
       "cooked_rabbit": "2024-12-28 19:26:45 +0000",
       "cookie": "2024-12-28 19:59:39 +0000",
+      "rotten_flesh": "2024-12-29 02:35:46 +0000",
       "cooked_mutton": "2024-12-27 02:45:22 +0000",
       "cooked_beef": "2024-12-27 02:34:33 +0000"
     },
@@ -2360,6 +2361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-29 02:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-29 02:32:02 +0000"
@@ -2408,6 +2415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-29 02:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-29 02:32:02 +0000"
@@ -2429,6 +2442,18 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-29 02:32:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-29 02:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-29 02:38:25 +0000"
     },
     "done": true
   },
