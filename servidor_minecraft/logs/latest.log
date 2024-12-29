@@ -389,3 +389,40 @@
 [04:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1292, y=63, z=475} jh{x=1294, y=101, z=477}
 [04:24:35] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [04:25:16] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:28:41] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
+[04:28:46] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:29:52] [Server thread/INFO]: <diex_x> asd
+[04:30:33] [Server thread/WARN]: sacracoronaj was kicked for floating too long!
+[04:30:34] [Server thread/INFO]: sacracoronaj lost connection: Flying is not enabled on this server
+[04:30:34] [Server thread/INFO]: sacracoronaj left the game
+[04:30:57] [Server thread/INFO]: <14121983> asd
+[04:31:18] [User Authenticator #19/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:31:20] [Server thread/INFO]: sacracoronaj[/127.43.195.213:54231] logged in with entity id 168066 at (232.56035531039532, 70.0, -171.3652383553013)
+[04:31:20] [Server thread/INFO]: sacracoronaj joined the game
+[04:35:43] [Server thread/INFO]: [Nicxlv: Set the weather to rain & thunder]
+[04:38:23] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:39:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=178, y=74, z=-174} jh{x=180, y=74, z=-174}
+[04:40:00] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[04:40:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=187, y=74, z=-174} jh{x=186, y=74, z=-174}
+[04:42:06] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.3255157923460956
+[04:42:06] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.5123794577283363
+[04:42:06] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.6790244793188975
+[04:42:06] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.7681929078287268
+[04:42:09] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.3927781530648957
+[04:42:09] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.6444707996953056
+[04:42:09] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 0.9957968582549555
+[04:42:09] [Server thread/WARN]: Horse (vehicle of sacracoronaj) moved wrongly! 1.310650977330063
+[04:42:40] [Server thread/INFO]: Scarleett has made the advancement [A Throwaway Joke]
+[04:44:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1298, y=217, z=477} jh{x=1300, y=217, z=477}
+[04:44:59] [Server thread/INFO]: diex_x lost connection: Disconnected
+[04:44:59] [Server thread/INFO]: diex_x left the game
+[04:45:02] [User Authenticator #20/INFO]: UUID of player diex_x is abadc53e-055c-4546-87b0-a545401ea610
+[04:45:03] [Server thread/INFO]: diex_x[/127.12.15.75:33819] logged in with entity id 176519 at (1285.3064071158208, 202.0, 477.4548552662671)
+[04:45:03] [Server thread/INFO]: diex_x joined the game
+[04:45:08] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to diex_x]
+[04:45:30] [Server thread/INFO]: 14121983 has made the advancement [Suit Up]
+[04:45:45] [Server thread/INFO]: <diex_x> asd
+[04:46:07] [Server thread/INFO]: <sacracoronaj> ASDASD
+[04:46:08] [Server thread/INFO]: <14121983> x
+[04:46:12] [Server thread/INFO]: [Nicxlv: The difficulty has been set to Peaceful]
+[04:46:18] [Server thread/INFO]: [Nicxlv: The difficulty has been set to Hard]
