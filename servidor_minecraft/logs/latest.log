@@ -252,3 +252,22 @@
 [03:33:04] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [03:33:17] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
 [03:34:28] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:37:23] [Server thread/INFO]: <14121983> tienen aldeanos granjeros
+[03:37:24] [Server thread/INFO]: <14121983> o no
+[03:37:26] [Server thread/INFO]: <14121983> te vendo comida
+[03:37:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1307, y=70, z=480} jh{x=1304, y=73, z=477}
+[03:38:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=72, z=477} jh{x=1304, y=72, z=477}
+[03:38:06] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[03:38:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=70, z=478} jh{x=1303, y=73, z=477}
+[03:38:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=70, z=478} jh{x=1303, y=69, z=478}
+[03:39:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=69, z=477} jh{x=1304, y=72, z=477}
+[03:39:38] [Server thread/WARN]: Nicxlv moved wrongly!
+[03:41:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=70, z=478} jh{x=1302, y=74, z=477}
+[03:42:25] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:42:35] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[03:42:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=76, z=476} jh{x=1303, y=78, z=477}
+[03:42:52] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:42:57] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[03:44:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1304, y=76, z=483} jh{x=1302, y=77, z=477}
+[03:44:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:45:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=77, z=472} jh{x=1304, y=81, z=477}
