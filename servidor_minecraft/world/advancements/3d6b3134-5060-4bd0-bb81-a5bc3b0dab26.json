@@ -1097,7 +1097,9 @@
       "minecraft:skeleton": "2024-12-28 04:50:48 +0000",
       "minecraft:breeze": "2024-12-27 02:44:35 +0000",
       "minecraft:stray": "2024-12-27 02:21:25 +0000",
+      "minecraft:enderman": "2024-12-29 03:59:52 +0000",
       "minecraft:zombie": "2024-12-27 02:14:03 +0000",
+      "minecraft:creeper": "2024-12-29 04:00:13 +0000",
       "minecraft:husk": "2024-12-28 04:45:01 +0000"
     },
     "done": false
@@ -2086,34 +2088,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-29 01:43:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2024-12-29 01:48:17 +0000",
-      "minecraft:basalt_deltas": "2024-12-29 01:48:07 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-29 01:48:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-29 01:30:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "entered_nether": "2024-12-29 01:48:06 +0000"
+      "has_red_mushroom": "2024-12-29 01:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-29 01:43:58 +0000"
     },
     "done": true
   },
@@ -2135,15 +2124,40 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2024-12-29 01:30:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2024-12-29 01:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-29 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-29 01:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-29 01:48:17 +0000",
+      "minecraft:basalt_deltas": "2024-12-29 01:48:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2024-12-29 03:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-29 03:49:24 +0000"
     },
     "done": true
   },

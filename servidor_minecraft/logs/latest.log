@@ -271,3 +271,85 @@
 [03:44:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1304, y=76, z=483} jh{x=1302, y=77, z=477}
 [03:44:55] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
 [03:45:16] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=77, z=472} jh{x=1304, y=81, z=477}
+[03:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=84, z=477} jh{x=1302, y=83, z=477}
+[03:47:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1302, y=82, z=477} jh{x=1304, y=87, z=477}
+[03:47:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1302, y=82, z=477} jh{x=1304, y=86, z=477}
+[03:47:51] [User Authenticator #11/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[03:47:52] [Server thread/INFO]: Scarleett[/127.116.157.213:36899] logged in with entity id 130030 at (271.7281014783044, 89.0, 87.89664725277198)
+[03:47:52] [Server thread/INFO]: Scarleett joined the game
+[03:48:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=91, z=477} jh{x=1303, y=91, z=476}
+[03:49:17] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Scarleett]
+[03:49:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=12, y=-39, z=333} jh{x=11, y=-40, z=333}
+[03:49:21] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=12, y=-39, z=334} jh{x=11, y=-38, z=334}
+[03:49:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=25, y=-49, z=314} jh{x=24, y=-49, z=314}
+[03:50:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=33, y=-53, z=310} jh{x=34, y=-54, z=309}
+[03:50:01] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=34, y=-53, z=310} jh{x=34, y=-54, z=309}
+[03:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=35, y=-53, z=309} jh{x=34, y=-54, z=309}
+[03:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=37, y=-54, z=308} jh{x=37, y=-54, z=307}
+[03:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=37, y=-54, z=308} jh{x=37, y=-54, z=307}
+[03:50:02] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=36, y=-54, z=309} jh{x=37, y=-54, z=307}
+[03:50:22] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[03:50:30] [Server thread/INFO]: <14121983> cual aldeano
+[03:50:32] [Server thread/INFO]: <14121983> tradeaba lana x esme
+[03:50:43] [Server thread/INFO]: <diex_x> no me acuerdo :,v
+[03:51:58] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[03:51:58] [Server thread/INFO]: sacracoronaj left the game
+[03:52:08] [Server thread/INFO]: [Nicxlv: Teleported Nicxlv to Tiukk]
+[03:52:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1293, y=75, z=478} jh{x=1294, y=76, z=477}
+[03:52:18] [User Authenticator #12/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[03:52:19] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1293, y=76, z=478} jh{x=1294, y=83, z=477}
+[03:52:20] [Server thread/INFO]: sacracoronaj[/127.43.195.213:43975] logged in with entity id 135105 at (13.926018812282829, -40.0, 335.69999998807907)
+[03:52:20] [Server thread/INFO]: sacracoronaj joined the game
+[03:52:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1293, y=76, z=478} jh{x=1303, y=90, z=478}
+[03:53:12] [Server thread/INFO]: <14121983> 196 -139
+[03:53:17] [Server thread/INFO]: <14121983> x z
+[03:53:39] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[03:53:39] [Server thread/INFO]: sacracoronaj left the game
+[03:53:42] [Server thread/INFO]: <14121983> asjdasfjasfjk
+[03:53:47] [User Authenticator #13/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[03:53:48] [Server thread/INFO]: sacracoronaj[/127.43.195.213:39237] logged in with entity id 137104 at (-10.699999988079071, -17.0, 341.69999998807907)
+[03:53:48] [Server thread/INFO]: sacracoronaj joined the game
+[03:53:50] [Server thread/INFO]: XKOUZ lost connection: Disconnected
+[03:53:50] [Server thread/INFO]: XKOUZ left the game
+[03:54:02] [Server thread/INFO]: Scarleett lost connection: Disconnected
+[03:54:02] [Server thread/INFO]: Scarleett left the game
+[03:54:03] [Server thread/INFO]: <14121983> gg
+[03:54:03] [User Authenticator #14/INFO]: UUID of player Scarleett is 3d6b3134-5060-4bd0-bb81-a5bc3b0dab26
+[03:54:04] [Server thread/INFO]: Scarleett[/127.116.157.213:54761] logged in with entity id 137397 at (278.37347525451804, 90.5, 92.07182870174898)
+[03:54:04] [Server thread/INFO]: Scarleett joined the game
+[03:54:04] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[03:54:15] [User Authenticator #15/INFO]: UUID of player XKOUZ is 66769a0c-e0df-454d-bb64-cd951e973cf2
+[03:54:16] [Server thread/INFO]: XKOUZ[/127.68.124.2:50381] logged in with entity id 137564 at (33.62998779922495, -52.0, 449.6038814449891)
+[03:54:16] [Server thread/INFO]: XKOUZ joined the game
+[03:54:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=58, y=-52, z=453}
+[03:54:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=58, y=-52, z=453}
+[03:54:47] [Server thread/INFO]: sacracoronaj lost connection: Disconnected
+[03:54:47] [Server thread/INFO]: sacracoronaj left the game
+[03:54:52] [User Authenticator #16/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[03:54:53] [Server thread/INFO]: sacracoronaj[/127.43.195.213:55271] logged in with entity id 138388 at (-20.53060355132985, 9.0, 342.627025290434)
+[03:54:53] [Server thread/INFO]: sacracoronaj joined the game
+[03:56:36] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1306, y=88, z=481} jh{x=1294, y=90, z=477}
+[03:57:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1294, y=94, z=477} jh{x=1294, y=96, z=477}
+[03:57:32] [Server thread/WARN]: XKOUZ moved wrongly!
+[03:58:00] [Server thread/INFO]: <14121983> ZZZ
+[03:58:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1294, y=94, z=477} jh{x=1294, y=90, z=477}
+[03:58:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1294, y=94, z=477} jh{x=1294, y=90, z=477}
+[03:58:02] [Server thread/INFO]: <14121983> DESCONECTENSE
+[03:58:42] [Server thread/INFO]: [Nicxlv: Set own game mode to Survival Mode]
+[03:58:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1304, y=96, z=476} jh{x=1295, y=94, z=477}
+[03:59:45] [Server thread/WARN]: sacracoronaj was kicked for floating too long!
+[03:59:45] [Server thread/INFO]: sacracoronaj lost connection: Flying is not enabled on this server
+[03:59:45] [Server thread/INFO]: sacracoronaj left the game
+[03:59:45] [Server thread/WARN]: 14121983 was kicked for floating too long!
+[03:59:45] [Server thread/WARN]: handleDisconnection() called twice
+[03:59:45] [Server thread/INFO]: 14121983 lost connection: Flying is not enabled on this server
+[03:59:45] [Server thread/INFO]: 14121983 left the game
+[04:00:15] [Server thread/INFO]: 14121983 (/127.122.66.195:48207) lost connection: Disconnected
+[04:00:41] [User Authenticator #17/INFO]: UUID of player 14121983 is 0f176954-9621-42e5-bf45-3f2d74123d62
+[04:00:43] [User Authenticator #18/INFO]: UUID of player sacracoronaj is 8879014e-997b-4a11-9b8f-8953c96637df
+[04:00:43] [Server thread/INFO]: 14121983[/127.122.66.195:48589] logged in with entity id 143733 at (118.5984385401613, 67.74918707874468, -230.2504984362493)
+[04:00:43] [Server thread/INFO]: 14121983 joined the game
+[04:00:44] [Server thread/INFO]: sacracoronaj[/127.43.195.213:42703] logged in with entity id 143859 at (246.69548716169498, 91.24918707874468, 123.38649049260339)
+[04:00:44] [Server thread/INFO]: sacracoronaj joined the game
+[04:00:50] [Server thread/INFO]: [Nicxlv: Set own game mode to Creative Mode]
+[04:04:22] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=1303, y=90, z=476} jh{x=1294, y=90, z=477}
