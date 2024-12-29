@@ -610,6 +610,7 @@
       "bread": "2024-12-28 03:04:34 +0000",
       "cooked_chicken": "2024-12-27 02:22:54 +0000",
       "cookie": "2024-12-29 02:41:49 +0000",
+      "suspicious_stew": "2024-12-29 03:20:42 +0000",
       "cooked_mutton": "2024-12-27 02:29:02 +0000",
       "cooked_beef": "2024-12-27 02:44:11 +0000",
       "pumpkin_pie": "2024-12-28 19:43:46 +0000"
@@ -2899,6 +2900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-29 03:28:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-29 02:20:43 +0000"
@@ -2920,6 +2927,12 @@
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-29 02:25:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-29 03:28:17 +0000"
     },
     "done": true
   },

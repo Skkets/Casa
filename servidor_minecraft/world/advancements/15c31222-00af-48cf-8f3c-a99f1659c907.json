@@ -65,6 +65,7 @@
       "minecraft:breeze": "2024-12-27 02:33:11 +0000",
       "minecraft:vindicator": "2024-12-27 05:49:45 +0000",
       "minecraft:stray": "2024-12-27 02:20:50 +0000",
+      "minecraft:magma_cube": "2024-12-29 03:16:08 +0000",
       "minecraft:spider": "2024-12-27 02:15:52 +0000",
       "minecraft:zombie": "2024-12-27 01:47:16 +0000",
       "minecraft:creeper": "2024-12-27 02:13:16 +0000",
@@ -3736,6 +3737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-29 03:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2024-12-29 02:43:27 +0000"
@@ -3778,6 +3785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-29 03:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-29 03:07:07 +0000"
@@ -3811,6 +3824,12 @@
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-29 02:57:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-12-29 03:28:39 +0000"
     },
     "done": true
   },
